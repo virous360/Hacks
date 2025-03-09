@@ -1,0 +1,3796 @@
+{
+    "degrees": {
+        "1ere": {
+            "name": "1re",
+            "slug": "1ere",
+            "id": "5cd020dbafd5f7d98fa4ca92"
+        },
+        "seconde": {
+            "name": "Seconde",
+            "slug": "seconde",
+            "id": "5cd020daafd5f7d98fa4ca91"
+        },
+        "terminale": {
+            "name": "Terminale",
+            "slug": "terminale",
+            "id": "5cd020dbafd5f7d98fa4ca93"
+        }
+    },
+    "subjects": [
+        {
+            "updatedAt": "2020-12-28T09:46:57.020Z",
+            "createdAt": "2020-11-05T07:16:59.657Z",
+            "name": "Mathématiques",
+            "degree_id": "5f685c46433e20efb45e86b9",
+            "subject_id": "54eb260eecd525756067ef58",
+            "slug": "mathematiques",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5fa3a6f5d6aacc0100659a31"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 1,
+            "id": "5fa3a6ebd6aacc0100659a30"
+        },
+        {
+            "updatedAt": "2020-02-28T09:45:55.991Z",
+            "createdAt": "2018-12-17T11:08:04.112Z",
+            "name": "Physique-chimie",
+            "degree_id": "54f5f0b1e050004d2b0107e0",
+            "subject_id": "55df09d17fcdb8937c1d4dd2",
+            "slug": "physique-chimie",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5c1783a501149701009f1b91",
+                "5c6523a7f1e18101006d7185",
+                "59a3cf488ba7120100ea790e"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 1,
+            "id": "5c1783945a52450100940aa4"
+        },
+        {
+            "updatedAt": "2021-04-08T12:03:00.318Z",
+            "createdAt": "2021-01-13T14:04:23.667Z",
+            "name": "Grand oral",
+            "degree_id": "5cd020dbafd5f7d98fa4ca93",
+            "subject_id": "5fd729f0bc595a0100f47341",
+            "slug": "grand-oral",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5ffefdfcbc595a0100f49b01"
+            ],
+            "is_published": true,
+            "order": 1,
+            "__v": 0,
+            "id": "5ffefde7bc595a0100f49b00"
+        },
+        {
+            "updatedAt": "2017-12-13T16:00:22.058Z",
+            "createdAt": "2017-08-29T15:29:31.523Z",
+            "name": "Géographie",
+            "degree_id": "54f5f0b1e050004d2b0107e0",
+            "subject_id": "54eb262aecd525756067ef5b",
+            "slug": "geographie",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "59a5886a8ba7120100ea7b89",
+                "59a7e0c08ba7120100ea84b2",
+                "5a314e955732f501001b8614"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 1,
+            "id": "59a5885b8ba7120100ea7b88"
+        },
+        {
+            "updatedAt": "2020-12-15T09:55:41.748Z",
+            "createdAt": "2020-10-12T10:01:45.559Z",
+            "name": "Anglais",
+            "degree_id": "5f685c46433e20efb45e86b9",
+            "subject_id": "5af9b34ad466a501002e96bd",
+            "slug": "anglais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5f842999635bc301007f12af"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 1,
+            "id": "5f842989635bc301007f12ae"
+        },
+        {
+            "updatedAt": "2019-01-10T14:48:29.146Z",
+            "createdAt": "2018-08-07T09:51:59.983Z",
+            "name": "SVT",
+            "degree_id": "54f5f0b1e050004d2b0107e0",
+            "subject_id": "54eb2633ecd525756067ef5c",
+            "slug": "svt",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b69b37e8014bb01009fb749",
+                "5c375b2a01149701009f38cc",
+                "5a816977c5806701009afaa0"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 1,
+            "id": "5b696bbf8014bb01009fb748"
+        },
+        {
+            "updatedAt": "2019-10-10T14:03:41.561Z",
+            "createdAt": "2017-11-27T15:30:02.595Z",
+            "name": "Français",
+            "degree_id": "54f5f0b1e050004d2b0107e0",
+            "subject_id": "54eb2618ecd525756067ef59",
+            "slug": "francais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5a1c2f83da426e01009477df",
+                "5a1e8749da426e0100947abf",
+                "5a27ee21da426e0100949b20",
+                "5a27f649da426e0100949bbc",
+                "5a280789f290570100195d40",
+                "58b6a797aa82de0100626f4b",
+                "58b6cebcaa82de010062701c",
+                "58b685ddaa82de0100626d62",
+                "5d9f229fbc3ce70100f729e6"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 1,
+            "id": "5a1c2f7ada426e01009477de"
+        },
+        {
+            "updatedAt": "2019-01-17T17:54:38.462Z",
+            "createdAt": "2019-01-14T15:06:27.005Z",
+            "name": "Allemand",
+            "degree_id": "54f5f0b1e050004d2b0107e0",
+            "subject_id": "5b97cb5714bfaf0100c5c56d",
+            "slug": "allemand",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b97cb8914bfaf0100c5c571"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 1,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5c3ca5735a5245010094239e"
+        },
+        {
+            "updatedAt": "2018-10-26T13:53:05.179Z",
+            "createdAt": "2018-08-07T07:34:18.719Z",
+            "name": "Mathématiques",
+            "degree_id": "54f5f0b1e050004d2b0107e0",
+            "subject_id": "54eb260eecd525756067ef58",
+            "slug": "mathematiques",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b694b848014bb01009fb745",
+                "5bd3034a32fcd801009bbc5b",
+                "59a3cf488ba7120100ea790e"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 1,
+            "id": "5b694b7a8014bb01009fb744"
+        },
+        {
+            "updatedAt": "2023-10-16T07:50:00.667Z",
+            "createdAt": "2020-10-14T09:03:48.608Z",
+            "name": "Français",
+            "degree_id": "5f685c46433e20efb45e86b9",
+            "subject_id": "54eb2618ecd525756067ef59",
+            "slug": "francais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5f86bf01635bc301007f13ad",
+                "5f919f1f7596510100e532f0",
+                "5f919f257596510100e532f1",
+                "652ceb282e57360100fdd621"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 1,
+            "id": "5f86bef4635bc301007f13ac"
+        },
+        {
+            "updatedAt": "2020-12-16T09:05:51.304Z",
+            "createdAt": "2020-11-02T14:50:51.707Z",
+            "name": "Histoire et géographie",
+            "degree_id": "5f685c46433e20efb45e86b9",
+            "subject_id": "5f736b06c8c83d0100a930d2",
+            "slug": "histoire-et-geographie",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5f736a24c8c83d0100a930cc"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 1,
+            "id": "5fa01ccbd6aacc010065942e"
+        },
+        {
+            "updatedAt": "2021-01-05T10:46:48.548Z",
+            "createdAt": "2020-11-19T08:31:22.523Z",
+            "name": "Sciences et technologie",
+            "degree_id": "5f685c46433e20efb45e86b9",
+            "subject_id": "5f736b15c8c83d0100a930d3",
+            "slug": "sciences-et-technologies",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5fb62d892db5220100285e25"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 1,
+            "id": "5fb62d5a2db5220100285e24"
+        },
+        {
+            "updatedAt": "2018-01-04T10:23:47.563Z",
+            "createdAt": "2017-09-01T14:28:43.597Z",
+            "name": "Histoire",
+            "degree_id": "54f5f0b1e050004d2b0107e0",
+            "subject_id": "54eb2621ecd525756067ef5a",
+            "slug": "histoire",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "59a96ea18ba7120100ea86cd",
+                "59d62cf6948d740100c34574",
+                "5a280c1cf290570100195d4f",
+                "5a281c4bf290570100195e18"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 1,
+            "id": "59a96e9b8ba7120100ea86cc"
+        },
+        {
+            "updatedAt": "2021-04-08T12:03:02.940Z",
+            "createdAt": "2021-04-06T12:42:44.988Z",
+            "name": "Grand oral",
+            "degree_id": "5cd020dbafd5f7d98fa4ca92",
+            "subject_id": "5fd729f0bc595a0100f47341",
+            "slug": "grand-oral",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5ffefdfcbc595a0100f49b01"
+            ],
+            "is_published": true,
+            "order": 1,
+            "__v": 0,
+            "id": "606c5744d672e201001f7c5c"
+        },
+        {
+            "updatedAt": "2021-10-27T09:38:12.929Z",
+            "createdAt": "2021-10-27T08:40:26.990Z",
+            "name": "Enseignement moral et civique",
+            "degree_id": "5f685c46433e20efb45e86b9",
+            "subject_id": "5b97cb6614bfaf0100c5c56f",
+            "slug": "enseignement-moral-et-civique",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "61791085c194e20100c375c9"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 1,
+            "id": "6179107ac194e20100c375c8"
+        },
+        {
+            "updatedAt": "2020-12-28T09:47:04.225Z",
+            "createdAt": "2020-10-28T14:16:00.494Z",
+            "name": "Mathématiques",
+            "degree_id": "5f685c54433e20efb45e86ed",
+            "subject_id": "54eb260eecd525756067ef58",
+            "slug": "mathematiques",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5f997d277596510100e53560"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 2,
+            "id": "5f997d207596510100e5355f"
+        },
+        {
+            "updatedAt": "2019-10-10T14:04:01.968Z",
+            "createdAt": "2017-03-02T16:52:03.289Z",
+            "name": "Français",
+            "degree_id": "54f5f0c5e050004d2b0107e1",
+            "subject_id": "54eb2618ecd525756067ef59",
+            "slug": "francais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "58b84dedaa82de01006271c3",
+                "58e65b51b58676f062b64795",
+                "5a27ee21da426e0100949b20",
+                "5a27f649da426e0100949bbc",
+                "5a280789f290570100195d40",
+                "58b6a797aa82de0100626f4b",
+                "58b6cebcaa82de010062701c",
+                "58b685ddaa82de0100626d62",
+                "5d9f3038655d020100fd632d"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 2,
+            "id": "58b84db3aa82de01006271c2"
+        },
+        {
+            "updatedAt": "2020-12-16T09:17:49.544Z",
+            "createdAt": "2020-11-02T14:59:15.729Z",
+            "name": "Histoire et géographie",
+            "degree_id": "5f685c54433e20efb45e86ed",
+            "subject_id": "5f736b06c8c83d0100a930d2",
+            "slug": "histoire-et-geographie",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5f9fd37cd6aacc01006592d5"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 2,
+            "id": "5fa01ec3d6aacc0100659435"
+        },
+        {
+            "updatedAt": "2021-02-16T16:47:59.790Z",
+            "createdAt": "2021-02-16T16:45:57.342Z",
+            "name": "Sciences et technologie",
+            "degree_id": "5f685c54433e20efb45e86ed",
+            "subject_id": "5f736b15c8c83d0100a930d3",
+            "slug": "sciences-et-technologies",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5fdb2440bc595a0100f476eb"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 2,
+            "id": "602bf6c54440ce0100dd4b43"
+        },
+        {
+            "updatedAt": "2019-04-11T09:34:58.117Z",
+            "createdAt": "2019-03-28T10:25:43.643Z",
+            "name": "Enseignement moral et civique",
+            "degree_id": "54f5f0c5e050004d2b0107e1",
+            "subject_id": "5b97cb6614bfaf0100c5c56f",
+            "slug": "enseignement-moral-et-civique",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5c628bf85a52450100942f84",
+                "5ca4a9bc865e4a010069941f"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 2,
+            "id": "5c9ca127ad67740100f1f2d7"
+        },
+        {
+            "updatedAt": "2018-12-17T12:52:50.077Z",
+            "createdAt": "2017-10-27T07:53:52.836Z",
+            "name": "Physique-chimie",
+            "degree_id": "54f5f0c5e050004d2b0107e1",
+            "subject_id": "55df09d17fcdb8937c1d4dd2",
+            "slug": "physique-chimie",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "59d49649948d740100c340f8",
+                "5a2e8eb95732f501001b81b3",
+                "59a3cf488ba7120100ea790e"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 2,
+            "id": "59f2e610da426e01009441c7"
+        },
+        {
+            "updatedAt": "2019-01-17T17:54:36.846Z",
+            "createdAt": "2019-01-14T15:06:44.450Z",
+            "name": "Allemand",
+            "degree_id": "54f5f0c5e050004d2b0107e1",
+            "subject_id": "5b97cb5714bfaf0100c5c56d",
+            "slug": "allemand",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b97cb8914bfaf0100c5c571"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 2,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5c3ca58401149701009f39fb"
+        },
+        {
+            "updatedAt": "2019-01-17T18:03:06.018Z",
+            "createdAt": "2018-09-17T13:51:10.044Z",
+            "name": "Espagnol",
+            "degree_id": "54f5f0c5e050004d2b0107e1",
+            "subject_id": "5b97cb5c14bfaf0100c5c56e",
+            "slug": "espagnol",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b9faa078014bb01009fd0e1"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 2,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5b9fb14e8014bb01009fd0ef"
+        },
+        {
+            "updatedAt": "2023-10-16T12:55:11.797Z",
+            "createdAt": "2020-10-14T09:12:27.458Z",
+            "name": "Français",
+            "degree_id": "5f685c54433e20efb45e86ed",
+            "subject_id": "54eb2618ecd525756067ef59",
+            "slug": "francais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5f86c103635bc301007f13b4",
+                "5fae798ed6aacc010065a6d9",
+                "5fbcd9722db522010028616d",
+                "652d32af2e57360100fdd655"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 2,
+            "id": "5f86c0fb635bc301007f13b3"
+        },
+        {
+            "updatedAt": "2020-12-15T09:59:28.600Z",
+            "createdAt": "2020-10-29T14:57:16.169Z",
+            "name": "Anglais",
+            "degree_id": "5f685c54433e20efb45e86ed",
+            "subject_id": "5af9b34ad466a501002e96bd",
+            "slug": "anglais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5f9ad85b7596510100e53790"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 2,
+            "id": "5f9ad84c7596510100e5378f"
+        },
+        {
+            "updatedAt": "2022-02-23T15:26:53.097Z",
+            "createdAt": "2018-05-15T12:27:58.871Z",
+            "name": "Anglais",
+            "degree_id": "54f5f0c5e050004d2b0107e1",
+            "subject_id": "5af9b34ad466a501002e96bd",
+            "slug": "anglais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5afaa9dcb6dbe10100eedd1f",
+                "6216523ca6f1520100a33926"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 2,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5afad24ed466a501002e9713"
+        },
+        {
+            "updatedAt": "2021-10-27T09:37:56.386Z",
+            "createdAt": "2021-10-27T08:40:08.152Z",
+            "name": "Enseignement moral et civique",
+            "degree_id": "5f685c54433e20efb45e86ed",
+            "subject_id": "5b97cb6614bfaf0100c5c56f",
+            "slug": "enseignement-moral-et-civique",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "61791085c194e20100c375c9"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 2,
+            "id": "61791068c194e20100c375c7"
+        },
+        {
+            "updatedAt": "2019-10-10T14:04:08.328Z",
+            "createdAt": "2017-02-21T10:49:09.021Z",
+            "name": "Français",
+            "degree_id": "54f5f0dae050004d2b0107e2",
+            "subject_id": "54eb2618ecd525756067ef59",
+            "slug": "francais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "58ac1b7a175def01004c31b0",
+                "58e65b08b58676f062b642cf",
+                "5a27ee21da426e0100949b20",
+                "5a27f649da426e0100949bbc",
+                "5a280789f290570100195d40",
+                "58b6a797aa82de0100626f4b",
+                "58b6cebcaa82de010062701c",
+                "58b685ddaa82de0100626d62",
+                "5d9f38e9bc3ce70100f72a6a"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 3,
+            "id": "58ac1b25175def01004c31af"
+        },
+        {
+            "updatedAt": "2023-10-18T08:04:17.611Z",
+            "createdAt": "2020-11-04T14:19:31.273Z",
+            "name": "Français",
+            "degree_id": "5f685c61433e20efb45e8716",
+            "subject_id": "54eb2618ecd525756067ef59",
+            "slug": "francais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5fa2b87dd6aacc0100659a03",
+                "5fa42728d6aacc0100659e30",
+                "5fcfa20ebc595a0100f46e9b",
+                "652f91812e57360100fdd663"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 3,
+            "id": "5fa2b873d6aacc0100659a02"
+        },
+        {
+            "updatedAt": "2022-02-24T15:55:35.745Z",
+            "createdAt": "2018-05-15T12:28:25.893Z",
+            "name": "Anglais",
+            "degree_id": "54f5f0dae050004d2b0107e2",
+            "subject_id": "5af9b34ad466a501002e96bd",
+            "slug": "anglais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5afaa9dcb6dbe10100eedd1f",
+                "6216523ca6f1520100a33926"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 3,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5afad269d466a501002e9714"
+        },
+        {
+            "updatedAt": "2020-12-14T15:16:49.819Z",
+            "createdAt": "2020-11-09T13:41:50.693Z",
+            "name": "Mathématiques",
+            "degree_id": "5f685c61433e20efb45e8716",
+            "subject_id": "54eb260eecd525756067ef58",
+            "slug": "mathematiques",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5fa94727d6aacc010065a441"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 3,
+            "id": "5fa9471ed6aacc010065a440"
+        },
+        {
+            "updatedAt": "2019-01-17T18:03:04.320Z",
+            "createdAt": "2018-09-17T13:50:42.896Z",
+            "name": "Espagnol",
+            "degree_id": "54f5f0dae050004d2b0107e2",
+            "subject_id": "5b97cb5c14bfaf0100c5c56e",
+            "slug": "espagnol",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b9faa078014bb01009fd0e1"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 3,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5b9fb1328014bb01009fd0ee"
+        },
+        {
+            "updatedAt": "2018-06-07T14:37:54.152Z",
+            "createdAt": "2017-10-23T08:44:11.309Z",
+            "name": "Physique-chimie",
+            "degree_id": "54f5f0dae050004d2b0107e2",
+            "subject_id": "55df09d17fcdb8937c1d4dd2",
+            "slug": "physique-chimie",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "59d49649948d740100c340f8",
+                "5a2e8eb95732f501001b81b3",
+                "59a3cf488ba7120100ea790e"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 3,
+            "id": "59edabdbda426e01009438f6"
+        },
+        {
+            "updatedAt": "2021-01-05T10:47:24.209Z",
+            "createdAt": "2021-01-05T10:40:24.509Z",
+            "name": "Sciences et technologie",
+            "degree_id": "5f685c61433e20efb45e8716",
+            "subject_id": "5f736b15c8c83d0100a930d3",
+            "slug": "sciences-et-technologies",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5ff44221bc595a0100f4851d"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 3,
+            "id": "5ff44218bc595a0100f4851c"
+        },
+        {
+            "updatedAt": "2020-12-16T09:23:18.519Z",
+            "createdAt": "2020-11-16T08:44:14.385Z",
+            "name": "Histoire et géographie",
+            "degree_id": "5f685c61433e20efb45e8716",
+            "subject_id": "5f736b06c8c83d0100a930d2",
+            "slug": "histoire-et-geographie",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5fb23be8d6aacc010065a756"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 3,
+            "id": "5fb23bded6aacc010065a755"
+        },
+        {
+            "updatedAt": "2019-01-17T17:54:35.306Z",
+            "createdAt": "2019-01-14T15:06:56.748Z",
+            "name": "Allemand",
+            "degree_id": "54f5f0dae050004d2b0107e2",
+            "subject_id": "5b97cb5714bfaf0100c5c56d",
+            "slug": "allemand",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b97cb8914bfaf0100c5c571"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 3,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5c3ca5905a5245010094239f"
+        },
+        {
+            "updatedAt": "2019-04-11T09:34:44.007Z",
+            "createdAt": "2019-03-28T10:23:57.741Z",
+            "name": "Enseignement moral et civique",
+            "degree_id": "54f5f0dae050004d2b0107e2",
+            "subject_id": "5b97cb6614bfaf0100c5c56f",
+            "slug": "enseignement-moral-et-civique",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5c628bf85a52450100942f84",
+                "5ca4a9bc865e4a010069941f"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 3,
+            "id": "5c9ca0bdad67740100f1f2d6"
+        },
+        {
+            "updatedAt": "2020-12-15T08:26:40.473Z",
+            "createdAt": "2020-11-19T12:36:41.739Z",
+            "name": "Anglais",
+            "degree_id": "5f685c61433e20efb45e8716",
+            "subject_id": "5af9b34ad466a501002e96bd",
+            "slug": "anglais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5fb6670f2db5220100285e6d"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 3,
+            "id": "5fb666d92db5220100285e6c"
+        },
+        {
+            "updatedAt": "2021-10-27T09:36:20.568Z",
+            "createdAt": "2021-10-27T08:39:52.187Z",
+            "name": "Enseignement moral et civique",
+            "degree_id": "5f685c61433e20efb45e8716",
+            "subject_id": "5b97cb6614bfaf0100c5c56f",
+            "slug": "enseignement-moral-et-civique",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "61791085c194e20100c375c9"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 3,
+            "id": "61791058c194e20100c375c6"
+        },
+        {
+            "updatedAt": "2019-01-17T18:03:02.166Z",
+            "createdAt": "2018-09-17T13:50:07.445Z",
+            "name": "Espagnol",
+            "degree_id": "54eb258cecd525756067ef51",
+            "subject_id": "5b97cb5c14bfaf0100c5c56e",
+            "slug": "espagnol",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b9faa078014bb01009fd0e1"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 4,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5b9fb10f8014bb01009fd0ed"
+        },
+        {
+            "updatedAt": "2020-12-16T16:23:04.916Z",
+            "createdAt": "2020-10-14T08:54:57.704Z",
+            "name": "Sciences et technologie",
+            "degree_id": "5f685c71433e20efb45e874a",
+            "subject_id": "5f736b15c8c83d0100a930d3",
+            "slug": "sciences-et-technologies",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5f86bd14635bc301007f13a6"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 4,
+            "id": "5f86bce1635bc301007f13a4"
+        },
+        {
+            "updatedAt": "2019-01-17T17:54:33.382Z",
+            "createdAt": "2018-09-11T14:04:44.962Z",
+            "name": "Allemand",
+            "degree_id": "54eb258cecd525756067ef51",
+            "subject_id": "5b97cb5714bfaf0100c5c56d",
+            "slug": "allemand",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b97cb8914bfaf0100c5c571"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 4,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5b97cb7c14bfaf0100c5c570"
+        },
+        {
+            "updatedAt": "2021-01-05T09:53:12.227Z",
+            "createdAt": "2020-11-25T08:38:14.859Z",
+            "name": "Histoire et géographie",
+            "degree_id": "5f685c71433e20efb45e874a",
+            "subject_id": "5f736b06c8c83d0100a930d2",
+            "slug": "histoire-et-geographie",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5fa15bb4d6aacc01006596d7"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 4,
+            "id": "5fbe17f62db5220100286198"
+        },
+        {
+            "updatedAt": "2022-02-24T15:56:07.715Z",
+            "createdAt": "2018-05-14T16:04:06.181Z",
+            "name": "Anglais",
+            "degree_id": "54eb258cecd525756067ef51",
+            "subject_id": "5af9b34ad466a501002e96bd",
+            "slug": "anglais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5afaa9dcb6dbe10100eedd1f",
+                "6216523ca6f1520100a33926"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 4,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5af9b376d466a501002e96be"
+        },
+        {
+            "updatedAt": "2020-12-16T09:29:09.051Z",
+            "createdAt": "2020-10-13T14:42:15.376Z",
+            "name": "Mathématiques",
+            "degree_id": "5f685c71433e20efb45e874a",
+            "subject_id": "54eb260eecd525756067ef58",
+            "slug": "mathematiques",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5f85bcd5635bc301007f137c"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 4,
+            "id": "5f85bcc7635bc301007f137b"
+        },
+        {
+            "updatedAt": "2023-10-18T08:14:24.811Z",
+            "createdAt": "2020-11-04T12:52:26.415Z",
+            "name": "Français",
+            "degree_id": "5f685c71433e20efb45e874a",
+            "subject_id": "54eb2618ecd525756067ef59",
+            "slug": "francais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5fa2a42cd6aacc010065977e",
+                "5fa3d733d6aacc0100659c59",
+                "652f93e02e57360100fdd664"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 4,
+            "id": "5fa2a40ad6aacc010065977d"
+        },
+        {
+            "updatedAt": "2020-12-15T10:06:56.884Z",
+            "createdAt": "2020-11-02T16:01:41.893Z",
+            "name": "Anglais",
+            "degree_id": "5f685c71433e20efb45e874a",
+            "subject_id": "5af9b34ad466a501002e96bd",
+            "slug": "anglais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5fa02d78d6aacc010065956a"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 4,
+            "id": "5fa02d65d6aacc0100659569"
+        },
+        {
+            "updatedAt": "2021-10-19T14:43:27.511Z",
+            "createdAt": "2021-10-19T14:31:54.814Z",
+            "name": "Enseignement moral et civique",
+            "degree_id": "5f685c71433e20efb45e874a",
+            "subject_id": "5b97cb6614bfaf0100c5c56f",
+            "slug": "enseignement-moral-et-civique",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "616e98b6c194e20100c370cd"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 4,
+            "id": "616ed6dac194e20100c370fb"
+        },
+        {
+            "updatedAt": "2022-02-24T13:08:52.324Z",
+            "createdAt": "2022-02-04T14:45:21.961Z",
+            "name": "Espagnol",
+            "degree_id": "5f685c71433e20efb45e874a",
+            "subject_id": "5b97cb5c14bfaf0100c5c56e",
+            "slug": "espagnol",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "61fd3c49a6f1520100a3292a"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 4,
+            "id": "61fd3c01a6f1520100a32928"
+        },
+        {
+            "updatedAt": "2022-07-07T14:25:09.366Z",
+            "createdAt": "2022-07-07T14:24:10.986Z",
+            "name": "Allemand",
+            "degree_id": "5f685c71433e20efb45e874a",
+            "subject_id": "5b97cb5714bfaf0100c5c56d",
+            "slug": "allemand",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "62c6ec9b4d027301002e82bc"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 4,
+            "id": "62c6ec8a4d027301002e82bb"
+        },
+        {
+            "updatedAt": "2018-06-22T07:25:25.727Z",
+            "createdAt": "2016-09-08T12:11:59.518Z",
+            "name": "Physique-chimie",
+            "degree_id": "54f5ef50e050004d2b0107df",
+            "subject_id": "55df09d17fcdb8937c1d4dd2",
+            "slug": "physique-chimie",
+            "resources_list": [],
+            "is_published": true,
+            "__v": 0,
+            "chapter_indexes_list": [
+                "57d156c1187aa701008a5082",
+                "58e65aa3b58676f062b63e25",
+                "5a819a210d5bb6010056bf40",
+                "5a840a420d5bb6010056c43b",
+                "5a04546bda426e01009455c2",
+                "5b2a7045b4c87d0100407a07"
+            ],
+            "order": 5,
+            "id": "57d1558f187aa701008a5081"
+        },
+        {
+            "updatedAt": "2018-05-25T12:16:39.561Z",
+            "createdAt": "2018-05-15T12:21:07.041Z",
+            "name": "Anglais",
+            "degree_id": "54f5ef50e050004d2b0107df",
+            "subject_id": "5af9b34ad466a501002e96bd",
+            "slug": "anglais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5afaa9dcb6dbe10100eedd1f"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 5,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5afad0b361e661010004c2df"
+        },
+        {
+            "updatedAt": "2023-10-18T08:19:10.776Z",
+            "createdAt": "2020-11-03T13:48:29.818Z",
+            "name": "Français",
+            "degree_id": "5f685c7d433e20efb45e8779",
+            "subject_id": "54eb2618ecd525756067ef59",
+            "slug": "francais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5fa15fbbd6aacc01006596e1",
+                "5fa40f15d6aacc0100659e19",
+                "652f94fe2e57360100fdd665"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 5,
+            "id": "5fa15fadd6aacc01006596e0"
+        },
+        {
+            "updatedAt": "2021-01-05T10:46:52.928Z",
+            "createdAt": "2021-01-05T10:22:59.364Z",
+            "name": "Histoire et géographie",
+            "degree_id": "5f685c7d433e20efb45e8779",
+            "subject_id": "5f736b06c8c83d0100a930d2",
+            "slug": "histoire-et-geographie",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5ff43e16bc595a0100f48510"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 5,
+            "id": "5ff43e03bc595a0100f4850f"
+        },
+        {
+            "updatedAt": "2020-12-15T10:13:46.190Z",
+            "createdAt": "2020-11-05T10:12:24.808Z",
+            "name": "Anglais",
+            "degree_id": "5f685c7d433e20efb45e8779",
+            "subject_id": "5af9b34ad466a501002e96bd",
+            "slug": "anglais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5fa3d02ad6aacc0100659c43"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 5,
+            "id": "5fa3d008d6aacc0100659c42"
+        },
+        {
+            "updatedAt": "2019-01-17T18:03:09.630Z",
+            "createdAt": "2018-09-17T13:48:48.262Z",
+            "name": "Espagnol",
+            "degree_id": "54f5ef50e050004d2b0107df",
+            "subject_id": "5b97cb5c14bfaf0100c5c56e",
+            "slug": "espagnol",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b9faa078014bb01009fd0e1"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 5,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5b9fb0c08014bb01009fd0ec"
+        },
+        {
+            "updatedAt": "2019-01-17T17:54:40.233Z",
+            "createdAt": "2019-01-14T15:07:08.840Z",
+            "name": "Allemand",
+            "degree_id": "54f5ef50e050004d2b0107df",
+            "subject_id": "5b97cb5714bfaf0100c5c56d",
+            "slug": "allemand",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b97cb8914bfaf0100c5c571"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 5,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5c3ca59c01149701009f39fc"
+        },
+        {
+            "updatedAt": "2020-12-16T09:35:01.438Z",
+            "createdAt": "2020-11-05T08:21:40.338Z",
+            "name": "Mathématiques",
+            "degree_id": "5f685c7d433e20efb45e8779",
+            "subject_id": "54eb260eecd525756067ef58",
+            "slug": "mathematiques",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5fa3b61ed6aacc0100659b37"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 5,
+            "id": "5fa3b614d6aacc0100659b36"
+        },
+        {
+            "subject_id": "54eb2633ecd525756067ef5c",
+            "degree_id": "54f5ef50e050004d2b0107df",
+            "name": "SVT",
+            "slug": "svt",
+            "createdAt": "2016-01-04T12:27:28.574Z",
+            "updatedAt": "2018-04-10T13:27:56.276Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6e0733e60a97a18531cf",
+                "58e65a28b58676f062b6351d",
+                "59a55aee8ba7120100ea7b63",
+                "5accbbdc5299d50100d47a59"
+            ],
+            "order": 5,
+            "id": "579f6e0733e60a97a18531ce"
+        },
+        {
+            "updatedAt": "2020-12-16T16:26:05.290Z",
+            "createdAt": "2020-10-14T08:54:57.705Z",
+            "name": "Sciences et technologie",
+            "degree_id": "5f685c7d433e20efb45e8779",
+            "subject_id": "5f736b15c8c83d0100a930d3",
+            "slug": "sciences-et-technologies",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5f86c4f4635bc301007f13ba"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 5,
+            "id": "5f86bce1635bc301007f13a5"
+        },
+        {
+            "subject_id": "54eb2618ecd525756067ef59",
+            "degree_id": "54f5ef50e050004d2b0107df",
+            "name": "Français",
+            "slug": "francais",
+            "createdAt": "2016-02-02T09:33:39.523Z",
+            "updatedAt": "2019-10-10T14:11:57.442Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6e1333e60a97a185363e",
+                "58b531b6aa82de0100625f0b",
+                "58b685ddaa82de0100626d62",
+                "58b6a797aa82de0100626f4b",
+                "58b6d6fcaa82de010062707c",
+                "5880f165e45f8901001eae87",
+                "58e65b32b58676f062b64617",
+                "58b6cebcaa82de010062701c",
+                "595ced8242ddc30100cf04b0",
+                "5acca9ae5299d50100d479f4",
+                "5d9f3038655d020100fd632d"
+            ],
+            "order": 5,
+            "id": "579f6e1333e60a97a185363d"
+        },
+        {
+            "updatedAt": "2021-10-19T14:43:29.971Z",
+            "createdAt": "2021-10-19T10:06:36.699Z",
+            "name": "Enseignement moral et civique",
+            "degree_id": "5f685c7d433e20efb45e8779",
+            "subject_id": "5b97cb6614bfaf0100c5c56f",
+            "slug": "enseignement-moral-et-civique",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "616e98b6c194e20100c370cd"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 5,
+            "id": "616e98acc194e20100c370cc"
+        },
+        {
+            "updatedAt": "2022-02-24T13:09:23.221Z",
+            "createdAt": "2022-02-04T14:45:43.068Z",
+            "name": "Espagnol",
+            "degree_id": "5f685c7d433e20efb45e8779",
+            "subject_id": "5b97cb5c14bfaf0100c5c56e",
+            "slug": "espagnol",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "61fd3c49a6f1520100a3292a"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 5,
+            "id": "61fd3c17a6f1520100a32929"
+        },
+        {
+            "updatedAt": "2022-07-04T12:32:51.367Z",
+            "createdAt": "2022-07-04T07:11:55.605Z",
+            "name": "Allemand",
+            "degree_id": "5f685c7d433e20efb45e8779",
+            "subject_id": "5b97cb5714bfaf0100c5c56d",
+            "slug": "allemand",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "62c29331922e050100e93bde"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 5,
+            "id": "62c292bb922e050100e93bdc"
+        },
+        {
+            "updatedAt": "2018-05-25T12:19:17.514Z",
+            "createdAt": "2018-05-15T12:24:26.603Z",
+            "name": "Anglais",
+            "degree_id": "54eb259eecd525756067ef52",
+            "subject_id": "5af9b34ad466a501002e96bd",
+            "slug": "anglais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5afaa9dcb6dbe10100eedd1f"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 6,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5afad17ad466a501002e970f"
+        },
+        {
+            "updatedAt": "2020-04-23T13:05:27.011Z",
+            "createdAt": "2016-09-23T12:29:36.470Z",
+            "name": "Français",
+            "degree_id": "54eb259eecd525756067ef52",
+            "subject_id": "54eb2618ecd525756067ef59",
+            "slug": "francais",
+            "resources_list": [],
+            "is_published": true,
+            "__v": 0,
+            "chapter_indexes_list": [
+                "57e52047d77672010085c6eb",
+                "58760da24b9c840100c01af3",
+                "58b54e67aa82de0100625fa5",
+                "58b6a797aa82de0100626f4b",
+                "58b685ddaa82de0100626d62",
+                "5880f165e45f8901001eae87",
+                "58e65a81b58676f062b63b97",
+                "58b6d6fcaa82de010062707c",
+                "58b6cebcaa82de010062701c",
+                "595ced8242ddc30100cf04b0",
+                "5d9f3038655d020100fd632d",
+                "5ea190ee28e63701004419d6"
+            ],
+            "order": 6,
+            "id": "57e52030d77672010085c6ea"
+        },
+        {
+            "subject_id": "54eb2633ecd525756067ef5c",
+            "degree_id": "54eb259eecd525756067ef52",
+            "name": "SVT",
+            "slug": "svt",
+            "createdAt": "2015-11-24T14:58:22.065Z",
+            "updatedAt": "2020-06-17T14:25:24.216Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6de933e60a97a18528f3",
+                "58e65a21b58676f062b634af",
+                "59a55a918ba7120100ea7b61",
+                "5ad89c44abfa2f0100fde9c6"
+            ],
+            "order": 6,
+            "id": "579f6de933e60a97a18528f2"
+        },
+        {
+            "subject_id": "55df09d17fcdb8937c1d4dd2",
+            "degree_id": "54eb259eecd525756067ef52",
+            "name": "Physique-chimie",
+            "slug": "physique-chimie",
+            "createdAt": "2016-04-01T12:18:52.234Z",
+            "updatedAt": "2018-06-22T07:25:09.764Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6e3833e60a97a18541c0",
+                "58e65a35b58676f062b6365b",
+                "5a819a210d5bb6010056bf40",
+                "5a04546bda426e01009455c2",
+                "5a840a420d5bb6010056c43b",
+                "5b2a7045b4c87d0100407a07"
+            ],
+            "order": 6,
+            "id": "579f6e3833e60a97a18541bf"
+        },
+        {
+            "updatedAt": "2019-11-28T15:23:08.920Z",
+            "createdAt": "2019-05-24T10:19:24.067Z",
+            "name": "Mathématiques",
+            "degree_id": "5cd020daafd5f7d98fa4ca91",
+            "subject_id": "54eb260eecd525756067ef58",
+            "slug": "mathematiques",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5ce7c536bc3ce70100f6c4b9",
+                "58e65a0eb58676f062b63339",
+                "5a0418afda426e010094553f",
+                "5a8ec13994c0a101001c0cc8",
+                "59a55a988ba7120100ea7b62",
+                "5b3c915b5c1aec0100cac47a",
+                "5c2ce58d01149701009f374f"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 6,
+            "id": "5ce7c52cbc3ce70100f6c4b8"
+        },
+        {
+            "updatedAt": "2019-01-17T18:02:58.628Z",
+            "createdAt": "2018-09-17T13:46:38.193Z",
+            "name": "Espagnol",
+            "degree_id": "54eb259eecd525756067ef52",
+            "subject_id": "5b97cb5c14bfaf0100c5c56e",
+            "slug": "espagnol",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b9faa078014bb01009fd0e1"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 6,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5b9fb03e8014bb01009fd0e9"
+        },
+        {
+            "updatedAt": "2019-01-17T17:54:29.295Z",
+            "createdAt": "2019-01-14T15:08:02.028Z",
+            "name": "Allemand",
+            "degree_id": "54eb259eecd525756067ef52",
+            "subject_id": "5b97cb5714bfaf0100c5c56d",
+            "slug": "allemand",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b97cb8914bfaf0100c5c571"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 6,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5c3ca5d201149701009f39fd"
+        },
+        {
+            "updatedAt": "2019-09-02T14:51:06.309Z",
+            "createdAt": "2019-05-24T08:15:44.525Z",
+            "name": "Physique-chimie",
+            "degree_id": "5cd020daafd5f7d98fa4ca91",
+            "subject_id": "55df09d17fcdb8937c1d4dd2",
+            "slug": "physique-chimie",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5ce7a83cbc3ce70100f6c440",
+                "58e65aa3b58676f062b63e25",
+                "5a819a210d5bb6010056bf40",
+                "5a840a420d5bb6010056c43b",
+                "5a04546bda426e01009455c2"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 6,
+            "id": "5ce7a830655d020100fcd895"
+        },
+        {
+            "updatedAt": "2019-01-17T17:54:25.797Z",
+            "createdAt": "2019-01-14T15:08:14.573Z",
+            "name": "Allemand",
+            "degree_id": "54eb25c4ecd525756067ef53",
+            "subject_id": "5b97cb5714bfaf0100c5c56d",
+            "slug": "allemand",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b97cb8914bfaf0100c5c571"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 7,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5c3ca5de5a524501009423a1"
+        },
+        {
+            "subject_id": "54eb2618ecd525756067ef59",
+            "degree_id": "54eb25c4ecd525756067ef53",
+            "name": "Français",
+            "slug": "francais",
+            "createdAt": "2015-02-23T13:56:38.708Z",
+            "updatedAt": "2020-04-23T13:05:56.063Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6ceb33e60a97a184e632",
+                "58779428584d1d0100d29bfb",
+                "58b54e67aa82de0100625fa5",
+                "58b6a797aa82de0100626f4b",
+                "58b685ddaa82de0100626d62",
+                "5880f165e45f8901001eae87",
+                "58e65a81b58676f062b63b97",
+                "58b6d6fcaa82de010062707c",
+                "58b6cebcaa82de010062701c",
+                "595ced8242ddc30100cf04b0",
+                "5d9f3038655d020100fd632d",
+                "5ea190ee28e63701004419d6"
+            ],
+            "order": 7,
+            "id": "579f6cea33e60a97a184e631"
+        },
+        {
+            "updatedAt": "2019-01-17T18:02:55.059Z",
+            "createdAt": "2018-09-17T13:47:23.467Z",
+            "name": "Espagnol",
+            "degree_id": "54eb25c4ecd525756067ef53",
+            "subject_id": "5b97cb5c14bfaf0100c5c56e",
+            "slug": "espagnol",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b9faa078014bb01009fd0e1"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 7,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5b9fb06b8014bb01009fd0ea"
+        },
+        {
+            "updatedAt": "2018-05-25T12:19:15.135Z",
+            "createdAt": "2018-05-15T12:24:01.175Z",
+            "name": "Anglais",
+            "degree_id": "54eb25c4ecd525756067ef53",
+            "subject_id": "5af9b34ad466a501002e96bd",
+            "slug": "anglais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5afaa9dcb6dbe10100eedd1f"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 7,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5afad161d466a501002e970e"
+        },
+        {
+            "updatedAt": "2018-05-25T12:12:43.556Z",
+            "createdAt": "2018-05-15T12:23:29.912Z",
+            "name": "Anglais",
+            "degree_id": "54eb25d9ecd525756067ef54",
+            "subject_id": "5af9b34ad466a501002e96bd",
+            "slug": "anglais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5afaa9dcb6dbe10100eedd1f"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 8,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5afad141d466a501002e970d"
+        },
+        {
+            "updatedAt": "2019-01-17T17:54:27.739Z",
+            "createdAt": "2019-01-14T15:07:23.310Z",
+            "name": "Allemand",
+            "degree_id": "54eb25d9ecd525756067ef54",
+            "subject_id": "5b97cb5714bfaf0100c5c56d",
+            "slug": "allemand",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b97cb8914bfaf0100c5c571"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 8,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5c3ca5ab5a524501009423a0"
+        },
+        {
+            "updatedAt": "2020-09-01T09:55:05.878Z",
+            "createdAt": "2019-06-03T09:03:16.193Z",
+            "name": "Humanités",
+            "degree_id": "5cd020dbafd5f7d98fa4ca92",
+            "subject_id": "5cd19320865e4a010069ac23",
+            "slug": "humanites",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5cf4e2b5bc3ce70100f6cbe6",
+                "58b57d54aa82de0100626136",
+                "58b6a797aa82de0100626f4b",
+                "58b6cebcaa82de010062701c",
+                "595ceaed42ddc30100cf0494",
+                "595ced8242ddc30100cf04b0",
+                "58b67a5eaa82de0100626cf0",
+                "58b69f26aa82de0100626ed8",
+                "58b685ddaa82de0100626d62",
+                "5e70a46628e637010043f583",
+                "586e0b3616fe6e010036f561",
+                "58e65a63b58676f062b639b3"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 8,
+            "is_optional": true,
+            "id": "5cf4e254bc3ce70100f6cbe5"
+        },
+        {
+            "updatedAt": "2020-04-23T13:07:50.777Z",
+            "createdAt": "2019-06-27T11:39:02.295Z",
+            "name": "Français",
+            "degree_id": "5cd020dbafd5f7d98fa4ca92",
+            "subject_id": "54eb2618ecd525756067ef59",
+            "slug": "francais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5d14aae0655d020100fcf9f7",
+                "595ced8242ddc30100cf04b0",
+                "5880f165e45f8901001eae87",
+                "58b6d6fcaa82de010062707c",
+                "58b6cebcaa82de010062701c",
+                "58b685ddaa82de0100626d62",
+                "58b6a797aa82de0100626f4b",
+                "58e65a81b58676f062b63b97",
+                "58b54e67aa82de0100625fa5",
+                "5d9f3038655d020100fd632d",
+                "5e3d282a09e0a80100fde4c2",
+                "5ea190ee28e63701004419d6"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 8,
+            "id": "5d14aad6655d020100fcf9f6"
+        },
+        {
+            "subject_id": "54eb260eecd525756067ef58",
+            "degree_id": "54eb25d9ecd525756067ef54",
+            "name": "Mathématiques",
+            "slug": "mathematiques",
+            "createdAt": "2016-02-23T16:54:35.159Z",
+            "updatedAt": "2018-10-05T14:54:52.896Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6e2a33e60a97a1853d33",
+                "58e65a31b58676f062b635f9",
+                "59a55a988ba7120100ea7b62",
+                "5b3635945c1aec0100cac2a5",
+                "5bb76d8714bfaf0100c5d298"
+            ],
+            "order": 8,
+            "id": "579f6e2a33e60a97a1853d32"
+        },
+        {
+            "updatedAt": "2019-01-17T18:02:57.018Z",
+            "createdAt": "2018-09-17T13:48:10.227Z",
+            "name": "Espagnol",
+            "degree_id": "54eb25d9ecd525756067ef54",
+            "subject_id": "5b97cb5c14bfaf0100c5c56e",
+            "slug": "espagnol",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b9faa078014bb01009fd0e1"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 8,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5b9fb09a8014bb01009fd0eb"
+        },
+        {
+            "subject_id": "54eb2618ecd525756067ef59",
+            "degree_id": "54eb25d9ecd525756067ef54",
+            "name": "Français",
+            "slug": "francais",
+            "createdAt": "2016-06-07T13:07:33.945Z",
+            "updatedAt": "2020-04-23T12:58:23.309Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6e3a33e60a97a18541d0",
+                "5877965c584d1d0100d29bfd",
+                "5880f165e45f8901001eae87",
+                "58b54e67aa82de0100625fa5",
+                "58b6cebcaa82de010062701c",
+                "58b6a797aa82de0100626f4b",
+                "58b685ddaa82de0100626d62",
+                "58e65a81b58676f062b63b97",
+                "58b6d6fcaa82de010062707c",
+                "595ced8242ddc30100cf04b0",
+                "5d9f3038655d020100fd632d",
+                "5ea190ee28e63701004419d6"
+            ],
+            "order": 8,
+            "id": "579f6e3a33e60a97a18541cf"
+        },
+        {
+            "updatedAt": "2019-01-17T17:54:30.875Z",
+            "createdAt": "2019-01-14T15:08:29.808Z",
+            "name": "Allemand",
+            "degree_id": "56387b16e43fec315261fa36",
+            "subject_id": "5b97cb5714bfaf0100c5c56d",
+            "slug": "allemand",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b97cb8914bfaf0100c5c571"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 9,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5c3ca5ed01149701009f39fe"
+        },
+        {
+            "updatedAt": "2018-05-25T12:19:19.243Z",
+            "createdAt": "2018-05-15T12:28:58.567Z",
+            "name": "Anglais",
+            "degree_id": "56387b16e43fec315261fa36",
+            "subject_id": "5af9b34ad466a501002e96bd",
+            "slug": "anglais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5afaa9dcb6dbe10100eedd1f"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 9,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5afad28ad466a501002e9715"
+        },
+        {
+            "updatedAt": "2019-01-17T18:03:00.319Z",
+            "createdAt": "2018-09-17T13:57:48.753Z",
+            "name": "Espagnol",
+            "degree_id": "56387b16e43fec315261fa36",
+            "subject_id": "5b97cb5c14bfaf0100c5c56e",
+            "slug": "espagnol",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b9faa078014bb01009fd0e1"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 9,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5b9fb2dc14bfaf0100c5c82a"
+        },
+        {
+            "subject_id": "54eb2621ecd525756067ef5a",
+            "degree_id": "54eb25f3ecd525756067ef56",
+            "name": "Histoire",
+            "slug": "histoire",
+            "createdAt": "2015-06-11T07:20:53.425Z",
+            "updatedAt": "2020-06-16T09:21:36.674Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6d6d33e60a97a1850c14",
+                "587e28ba3ba90a0100d07a18",
+                "58e65a5eb58676f062b6399b",
+                "595cefce42ddc30100cf04cf",
+                "595cf19342ddc30100cf04d6",
+                "5ea1948628e63701004419d7"
+            ],
+            "order": 10,
+            "id": "579f6d6d33e60a97a1850c13"
+        },
+        {
+            "subject_id": "55df09d17fcdb8937c1d4dd2",
+            "degree_id": "54eb25f3ecd525756067ef56",
+            "name": "Physique-chimie",
+            "slug": "physique-chimie",
+            "createdAt": "2015-08-27T13:01:02.744Z",
+            "updatedAt": "2020-06-17T12:56:46.254Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6d9b33e60a97a185174c",
+                "58ac67df45088e010056f444",
+                "58e65a35b58676f062b6365b",
+                "5a819a210d5bb6010056bf40",
+                "5a04546bda426e01009455c2",
+                "5a840a420d5bb6010056c43b",
+                "5b2a7045b4c87d0100407a07",
+                "5ea1957728e63701004419d9"
+            ],
+            "order": 10,
+            "id": "579f6d9b33e60a97a185174b"
+        },
+        {
+            "updatedAt": "2020-06-17T12:56:02.256Z",
+            "createdAt": "2016-09-21T16:07:54.195Z",
+            "name": "Philosophie",
+            "degree_id": "54eb25f3ecd525756067ef56",
+            "subject_id": "54eb2646ecd525756067ef5e",
+            "slug": "philosophie",
+            "resources_list": [],
+            "is_published": true,
+            "__v": 0,
+            "chapter_indexes_list": [
+                "57e3e141d77672010085c6a1",
+                "586e557416fe6e010036f624",
+                "5881e9cbe45f8901001eb17a",
+                "58b67a5eaa82de0100626cf0",
+                "58b57d54aa82de0100626136",
+                "58b69f26aa82de0100626ed8",
+                "58e65a63b58676f062b639b3",
+                "595ceaed42ddc30100cf0494",
+                "5ea195af09e0a80100fe1e79"
+            ],
+            "order": 10,
+            "id": "57e2b05a186c9601003b9988"
+        },
+        {
+            "subject_id": "54eb260eecd525756067ef58",
+            "degree_id": "54eb25f3ecd525756067ef56",
+            "name": "Mathématiques",
+            "slug": "mathematiques",
+            "createdAt": "2015-02-23T13:14:27.961Z",
+            "updatedAt": "2020-06-17T13:36:44.188Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6c4933e60a97a184b499",
+                "587607f74b9c840100c01aed",
+                "58e65a40b58676f062b6375f",
+                "599d4c588ba7120100ea751a",
+                "59cbaf76948d740100c331f9",
+                "5a041892da426e010094553e",
+                "5a0b07fada426e010094664b",
+                "5a98006b982aaf0100c0e268",
+                "5b605c9e14bfaf0100c5b482"
+            ],
+            "order": 10,
+            "id": "579f6c4933e60a97a184b498"
+        },
+        {
+            "updatedAt": "2019-01-17T18:03:16.181Z",
+            "createdAt": "2018-09-17T13:19:28.075Z",
+            "name": "Espagnol",
+            "degree_id": "54eb25f3ecd525756067ef56",
+            "subject_id": "5b97cb5c14bfaf0100c5c56e",
+            "slug": "espagnol",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b9faa078014bb01009fd0e1"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 10,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5b9fa9e014bfaf0100c5c828"
+        },
+        {
+            "subject_id": "54eb2633ecd525756067ef5c",
+            "degree_id": "54eb25f3ecd525756067ef56",
+            "name": "SVT",
+            "slug": "svt",
+            "createdAt": "2015-02-23T13:54:16.536Z",
+            "updatedAt": "2020-06-17T12:56:56.659Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6c9333e60a97a184c9bf",
+                "58a1dfad55fe0e0100281882",
+                "58e65b1cb58676f062b64513",
+                "599becc68ba7120100ea72d8",
+                "5ad062c901e94c0100d28352",
+                "5ad07e9ea3544d01001dba9a",
+                "5b1954e8b4c87d0100407200",
+                "5ea1954428e63701004419d8"
+            ],
+            "order": 10,
+            "id": "579f6c9333e60a97a184c9be"
+        },
+        {
+            "updatedAt": "2020-06-17T12:56:20.266Z",
+            "createdAt": "2016-09-21T16:13:26.066Z",
+            "name": "Géographie",
+            "degree_id": "54eb25f3ecd525756067ef56",
+            "subject_id": "54eb262aecd525756067ef5b",
+            "slug": "geographie",
+            "resources_list": [],
+            "is_published": true,
+            "__v": 0,
+            "chapter_indexes_list": [
+                "57e2b1b6186c9601003b998b",
+                "58820c75e45f8901001eb3fa",
+                "58e65ac2b58676f062b63f37",
+                "5a05a869da426e0100945922",
+                "5ea193f609e0a80100fe1e78"
+            ],
+            "order": 10,
+            "id": "57e2b1a6186c9601003b998a"
+        },
+        {
+            "updatedAt": "2018-05-25T12:19:36.371Z",
+            "createdAt": "2018-05-15T12:26:51.579Z",
+            "name": "Anglais",
+            "degree_id": "54eb25f3ecd525756067ef56",
+            "subject_id": "5af9b34ad466a501002e96bd",
+            "slug": "anglais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5afaa9dcb6dbe10100eedd1f"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 10,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5afad20bd466a501002e9711"
+        },
+        {
+            "updatedAt": "2019-01-17T17:54:46.894Z",
+            "createdAt": "2019-01-14T15:08:41.833Z",
+            "name": "Allemand",
+            "degree_id": "54eb25f3ecd525756067ef56",
+            "subject_id": "5b97cb5714bfaf0100c5c56d",
+            "slug": "allemand",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b97cb8914bfaf0100c5c571"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 10,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5c3ca5f95a524501009423a2"
+        },
+        {
+            "updatedAt": "2023-03-27T11:55:54.768Z",
+            "createdAt": "2018-05-15T12:27:23.457Z",
+            "name": "Anglais",
+            "degree_id": "54f5f0b1e050004d2b0107e0",
+            "subject_id": "5af9b34ad466a501002e96bd",
+            "slug": "anglais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "61dd4701b19dad0100446aca",
+                "6336df98fefcb601000c4ed3"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 11,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5afad22bd466a501002e9712"
+        },
+        {
+            "updatedAt": "2021-10-19T14:43:33.965Z",
+            "createdAt": "2021-10-19T14:32:40.115Z",
+            "name": "Enseignement moral et civique",
+            "degree_id": "54f5f0b1e050004d2b0107e0",
+            "subject_id": "5b97cb6614bfaf0100c5c56f",
+            "slug": "enseignement-moral-et-civique",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "616e98b6c194e20100c370cd"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 11,
+            "id": "616ed708c194e20100c370fc"
+        },
+        {
+            "subject_id": "54eb2621ecd525756067ef5a",
+            "degree_id": "54eb25e6ecd525756067ef55",
+            "name": "Histoire",
+            "slug": "histoire",
+            "createdAt": "2015-02-23T13:48:06.459Z",
+            "updatedAt": "2020-06-17T13:00:07.951Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6c6c33e60a97a184bcc6",
+                "5880edffe45f8901001eadac",
+                "58e65aeab58676f062b64055",
+                "595cefce42ddc30100cf04cf",
+                "595cf19342ddc30100cf04d6",
+                "5ea1948628e63701004419d7"
+            ],
+            "order": 12,
+            "id": "579f6c6c33e60a97a184bcc5"
+        },
+        {
+            "updatedAt": "2019-01-17T18:03:11.305Z",
+            "createdAt": "2018-09-17T13:45:04.773Z",
+            "name": "Espagnol",
+            "degree_id": "54eb25e6ecd525756067ef55",
+            "subject_id": "5b97cb5c14bfaf0100c5c56e",
+            "slug": "espagnol",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b9faa078014bb01009fd0e1"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 12,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5b9fafe08014bb01009fd0e8"
+        },
+        {
+            "subject_id": "54eb262aecd525756067ef5b",
+            "degree_id": "54eb25e6ecd525756067ef55",
+            "name": "Géographie",
+            "slug": "geographie",
+            "createdAt": "2015-02-23T13:49:04.041Z",
+            "updatedAt": "2020-06-17T13:00:47.066Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6c8633e60a97a184c551",
+                "58bd7a97aa82de01006285b8",
+                "58e65b2eb58676f062b645f7",
+                "5a05a869da426e0100945922",
+                "5ea193f609e0a80100fe1e78"
+            ],
+            "order": 12,
+            "id": "579f6c8633e60a97a184c550"
+        },
+        {
+            "updatedAt": "2019-01-17T17:54:41.604Z",
+            "createdAt": "2019-01-14T15:08:52.562Z",
+            "name": "Allemand",
+            "degree_id": "54eb25e6ecd525756067ef55",
+            "subject_id": "5b97cb5714bfaf0100c5c56d",
+            "slug": "allemand",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b97cb8914bfaf0100c5c571"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 12,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5c3ca60401149701009f39ff"
+        },
+        {
+            "updatedAt": "2020-06-17T13:00:20.966Z",
+            "createdAt": "2016-09-21T16:14:06.820Z",
+            "name": "Philosophie",
+            "degree_id": "54eb25e6ecd525756067ef55",
+            "subject_id": "54eb2646ecd525756067ef5e",
+            "slug": "philosophie",
+            "resources_list": [],
+            "is_published": true,
+            "__v": 0,
+            "chapter_indexes_list": [
+                "57e2b1f0186c9601003b998d",
+                "586e473016fe6e010036f5ee",
+                "5881e9dee45f8901001eb17b",
+                "58b67a5eaa82de0100626cf0",
+                "58b57d54aa82de0100626136",
+                "58b69f26aa82de0100626ed8",
+                "58e65a63b58676f062b639b3",
+                "595ceaed42ddc30100cf0494",
+                "5ea195af09e0a80100fe1e79"
+            ],
+            "order": 12,
+            "id": "57e2b1ce186c9601003b998c"
+        },
+        {
+            "updatedAt": "2018-05-25T12:19:29.232Z",
+            "createdAt": "2018-05-15T12:25:53.654Z",
+            "name": "Anglais",
+            "degree_id": "54eb25e6ecd525756067ef55",
+            "subject_id": "5af9b34ad466a501002e96bd",
+            "slug": "anglais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5afaa9dcb6dbe10100eedd1f"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 12,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5afad1d161e661010004c2e0"
+        },
+        {
+            "subject_id": "54eb263cecd525756067ef5d",
+            "degree_id": "54eb25e6ecd525756067ef55",
+            "name": "SES",
+            "slug": "ses",
+            "createdAt": "2015-06-06T14:03:06.483Z",
+            "updatedAt": "2020-04-23T13:20:22.407Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6d4833e60a97a18501bd",
+                "586e70a016fe6e010036f692",
+                "58b6a5e0aa82de0100626f48",
+                "58e65b39b58676f062b64665",
+                "5a4b4b06b880b10100580868",
+                "5ea1961509e0a80100fe1e7a"
+            ],
+            "order": 12,
+            "id": "579f6d4833e60a97a18501bc"
+        },
+        {
+            "updatedAt": "2021-07-30T08:36:07.985Z",
+            "createdAt": "2021-07-22T07:15:48.885Z",
+            "name": "Mathématiques",
+            "degree_id": "60741e7e1911c10100b141ba",
+            "subject_id": "54eb260eecd525756067ef58",
+            "slug": "mathematiques",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "60f91b3818d95e01006cb02e"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 12,
+            "id": "60f91b2418d95e01006cb02d"
+        },
+        {
+            "updatedAt": "2020-04-23T13:08:12.528Z",
+            "createdAt": "2017-02-28T09:45:43.240Z",
+            "name": "Français",
+            "degree_id": "54eb25feecd525756067ef57",
+            "subject_id": "54eb2618ecd525756067ef59",
+            "slug": "francais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5a1be336da426e01009476a1",
+                "58b547ddaa82de0100625f60",
+                "58b6a797aa82de0100626f4b",
+                "58b685ddaa82de0100626d62",
+                "58bfccbcaa82de0100628d96",
+                "5880f165e45f8901001eae87",
+                "58b6cebcaa82de010062701c",
+                "58b6d6fcaa82de010062707c",
+                "595ced8242ddc30100cf04b0",
+                "5a1c088eda426e01009476f2",
+                "5d9f3038655d020100fd632d",
+                "5ea1933b09e0a80100fe1e77"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 13,
+            "id": "58b546c7aa82de0100625f5d"
+        },
+        {
+            "updatedAt": "2020-06-17T12:59:24.169Z",
+            "createdAt": "2016-09-21T16:20:34.664Z",
+            "name": "Géographie",
+            "degree_id": "54eb25feecd525756067ef57",
+            "subject_id": "54eb262aecd525756067ef5b",
+            "slug": "geographie",
+            "resources_list": [],
+            "is_published": true,
+            "__v": 0,
+            "chapter_indexes_list": [
+                "57e2b364186c9601003b9995",
+                "58bd7ae3aa82de01006285b9",
+                "58e65aceb58676f062b63fa1",
+                "5a05a869da426e0100945922",
+                "5ea193f609e0a80100fe1e78"
+            ],
+            "order": 13,
+            "id": "57e2b352186c9601003b9994"
+        },
+        {
+            "updatedAt": "2018-05-25T12:19:33.670Z",
+            "createdAt": "2018-05-15T12:25:05.054Z",
+            "name": "Anglais",
+            "degree_id": "54eb25feecd525756067ef57",
+            "subject_id": "5af9b34ad466a501002e96bd",
+            "slug": "anglais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5afaa9dcb6dbe10100eedd1f"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 13,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5afad1a1d466a501002e9710"
+        },
+        {
+            "updatedAt": "2020-06-17T12:57:13.678Z",
+            "createdAt": "2016-09-23T12:10:59.187Z",
+            "name": "Histoire",
+            "degree_id": "54eb25feecd525756067ef57",
+            "subject_id": "54eb2621ecd525756067ef5a",
+            "slug": "histoire",
+            "resources_list": [],
+            "is_published": true,
+            "__v": 0,
+            "chapter_indexes_list": [
+                "57e51bf8d77672010085c6e9",
+                "58809c7ee45f8901001ea8f6",
+                "58e65aeab58676f062b64055",
+                "595cefce42ddc30100cf04cf",
+                "595cf19342ddc30100cf04d6",
+                "5ea1948628e63701004419d7"
+            ],
+            "order": 13,
+            "id": "57e51bd3d77672010085c6e8"
+        },
+        {
+            "updatedAt": "2019-01-17T17:54:44.501Z",
+            "createdAt": "2019-01-14T15:09:05.437Z",
+            "name": "Allemand",
+            "degree_id": "54eb25feecd525756067ef57",
+            "subject_id": "5b97cb5714bfaf0100c5c56d",
+            "slug": "allemand",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b97cb8914bfaf0100c5c571"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 13,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5c3ca6115a524501009423a3"
+        },
+        {
+            "updatedAt": "2019-01-17T18:03:14.228Z",
+            "createdAt": "2018-09-17T13:45:41.249Z",
+            "name": "Espagnol",
+            "degree_id": "54eb25feecd525756067ef57",
+            "subject_id": "5b97cb5c14bfaf0100c5c56e",
+            "slug": "espagnol",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b9faa078014bb01009fd0e1"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 13,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5b9fb00514bfaf0100c5c829"
+        },
+        {
+            "subject_id": "54eb2646ecd525756067ef5e",
+            "degree_id": "54eb25feecd525756067ef57",
+            "name": "Philosophie",
+            "slug": "philosophie",
+            "createdAt": "2015-07-30T10:07:15.698Z",
+            "updatedAt": "2020-06-17T12:59:01.966Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6d8233e60a97a185128a",
+                "586e0b3616fe6e010036f561",
+                "586e1d1f16fe6e010036f58e",
+                "58b57d54aa82de0100626136",
+                "58b67a5eaa82de0100626cf0",
+                "58b69f26aa82de0100626ed8",
+                "58e65a63b58676f062b639b3",
+                "595ceaed42ddc30100cf0494",
+                "5ea195af09e0a80100fe1e79"
+            ],
+            "order": 13,
+            "id": "579f6d8233e60a97a1851289"
+        },
+        {
+            "updatedAt": "2021-07-30T08:36:01.901Z",
+            "createdAt": "2021-07-12T12:34:19.193Z",
+            "name": "Mathématiques",
+            "degree_id": "60741e6b1911c10100b141b9",
+            "subject_id": "54eb260eecd525756067ef58",
+            "slug": "mathematiques",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "60ec36e1c5d2ed010009887d"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 13,
+            "id": "60ec36cbc5d2ed010009887c"
+        },
+        {
+            "subject_id": "54eb2618ecd525756067ef59",
+            "degree_id": "54eb258cecd525756067ef51",
+            "name": "Français",
+            "slug": "francais",
+            "createdAt": "2015-02-23T13:58:56.679Z",
+            "updatedAt": "2022-05-04T09:00:46.600Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6d4233e60a97a1850193",
+                "5d9f3038655d020100fd632d",
+                "58e65b4ab58676f062b64733",
+                "5ea1901e28e63701004419d5",
+                "59157e75736a8e010072ff02",
+                "5a27ee21da426e0100949b20",
+                "5a27f649da426e0100949bbc",
+                "5a280789f290570100195d40",
+                "58b6a797aa82de0100626f4b",
+                "58b6cebcaa82de010062701c",
+                "58b685ddaa82de0100626d62"
+            ],
+            "order": 14,
+            "id": "579f6d4233e60a97a1850192"
+        },
+        {
+            "updatedAt": "2019-01-17T18:03:17.732Z",
+            "createdAt": "2018-09-17T13:52:22.452Z",
+            "name": "Espagnol",
+            "degree_id": "5638bfb3e43fec315261faff",
+            "subject_id": "5b97cb5c14bfaf0100c5c56e",
+            "slug": "espagnol",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b9faa078014bb01009fd0e1"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 14,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5b9fb1968014bb01009fd0f1"
+        },
+        {
+            "subject_id": "54eb2621ecd525756067ef5a",
+            "degree_id": "54eb258cecd525756067ef51",
+            "name": "Histoire",
+            "slug": "histoire",
+            "createdAt": "2015-02-23T13:57:26.531Z",
+            "updatedAt": "2022-05-04T08:58:42.069Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6d2133e60a97a184f64b",
+                "58e659f7b58676f062b63231",
+                "6272403c4b54920100cedee3",
+                "5914728f27dcff01001a201b",
+                "5a280c1cf290570100195d4f",
+                "5a281c4bf290570100195e18"
+            ],
+            "order": 14,
+            "id": "579f6d2133e60a97a184f64a"
+        },
+        {
+            "updatedAt": "2022-05-04T09:01:54.875Z",
+            "createdAt": "2019-02-12T09:03:39.732Z",
+            "name": "Enseignement moral et civique",
+            "degree_id": "54eb258cecd525756067ef51",
+            "subject_id": "5b97cb6614bfaf0100c5c56f",
+            "slug": "enseignement-moral-et-civique",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5c628bf85a52450100942f84",
+                "5ca4a9bc865e4a010069941f",
+                "627241014b54920100cedee6",
+                "5e58e83809e0a80100fdf980"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 14,
+            "id": "5c628beb09adbd0100d2c2a9"
+        },
+        {
+            "updatedAt": "2019-01-17T17:54:48.516Z",
+            "createdAt": "2019-01-14T15:09:21.801Z",
+            "name": "Allemand",
+            "degree_id": "5638bfb3e43fec315261faff",
+            "subject_id": "5b97cb5714bfaf0100c5c56d",
+            "slug": "allemand",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b97cb8914bfaf0100c5c571"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 14,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5c3ca62101149701009f3a00"
+        },
+        {
+            "subject_id": "54eb262aecd525756067ef5b",
+            "degree_id": "5638bfb3e43fec315261faff",
+            "name": "Géographie",
+            "slug": "geographie",
+            "createdAt": "2015-11-03T14:08:57.943Z",
+            "updatedAt": "2020-06-17T13:02:42.064Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6dd033e60a97a18524b4",
+                "58bfcbf2aa82de0100628d95",
+                "58e65b2db58676f062b645f1",
+                "5a05a869da426e0100945922",
+                "5ea193f609e0a80100fe1e78"
+            ],
+            "order": 14,
+            "id": "579f6dd033e60a97a18524b3"
+        },
+        {
+            "subject_id": "54eb2646ecd525756067ef5e",
+            "degree_id": "5638bfb3e43fec315261faff",
+            "name": "Philosophie",
+            "slug": "philosophie",
+            "createdAt": "2015-11-04T11:50:44.390Z",
+            "updatedAt": "2020-06-17T13:02:12.841Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6dd233e60a97a18524b8",
+                "586e620c16fe6e010036f657",
+                "5881e9efe45f8901001eb17c",
+                "58b57d54aa82de0100626136",
+                "58b67a5eaa82de0100626cf0",
+                "58b69f26aa82de0100626ed8",
+                "58e65a63b58676f062b639b3",
+                "595ceaed42ddc30100cf0494",
+                "5ea195af09e0a80100fe1e79"
+            ],
+            "order": 14,
+            "id": "579f6dd233e60a97a18524b7"
+        },
+        {
+            "updatedAt": "2022-05-04T08:59:53.565Z",
+            "createdAt": "2017-05-12T10:37:17.138Z",
+            "name": "SVT",
+            "degree_id": "54eb258cecd525756067ef51",
+            "subject_id": "54eb2633ecd525756067ef5c",
+            "slug": "svt",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "58edf6ac20c39a0100de3b4f",
+                "627240814b54920100cedee4",
+                "5915908b736a8e010072ff16",
+                "58f8c7f527dcff0100199402",
+                "5a816977c5806701009afaa0"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 14,
+            "id": "5915905d736a8e010072ff15"
+        },
+        {
+            "subject_id": "54eb262aecd525756067ef5b",
+            "degree_id": "54eb258cecd525756067ef51",
+            "name": "Géographie",
+            "slug": "geographie",
+            "createdAt": "2015-02-23T13:57:46.307Z",
+            "updatedAt": "2022-05-04T09:02:40.811Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6d3233e60a97a184fc56",
+                "58e65a02b58676f062b6328b",
+                "6272412e4b54920100cedee7",
+                "5914728f27dcff01001a201b",
+                "5a3106b1b880b1010057f91b"
+            ],
+            "order": 14,
+            "id": "579f6d3233e60a97a184fc55"
+        },
+        {
+            "subject_id": "54eb2621ecd525756067ef5a",
+            "degree_id": "5638bfb3e43fec315261faff",
+            "name": "Histoire",
+            "slug": "histoire",
+            "createdAt": "2015-11-03T14:08:28.180Z",
+            "updatedAt": "2020-06-17T13:02:26.875Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6dce33e60a97a18524b2",
+                "58beaafaaa82de01006285f7",
+                "58e65b2bb58676f062b645e7",
+                "595cefce42ddc30100cf04cf",
+                "595cf19342ddc30100cf04d6",
+                "5ea1948628e63701004419d7"
+            ],
+            "order": 14,
+            "id": "579f6dce33e60a97a18524b1"
+        },
+        {
+            "updatedAt": "2018-05-25T12:19:38.645Z",
+            "createdAt": "2018-05-15T12:29:30.054Z",
+            "name": "Anglais",
+            "degree_id": "5638bfb3e43fec315261faff",
+            "subject_id": "5af9b34ad466a501002e96bd",
+            "slug": "anglais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5afaa9dcb6dbe10100eedd1f"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 14,
+            "forbidden_signatures": [
+                "graham",
+                "letudiant"
+            ],
+            "id": "5afad2aad466a501002e9716"
+        },
+        {
+            "subject_id": "54eb260eecd525756067ef58",
+            "degree_id": "54eb258cecd525756067ef51",
+            "name": "Mathématiques",
+            "slug": "mathematiques",
+            "createdAt": "2015-02-23T13:57:07.301Z",
+            "updatedAt": "2022-05-04T08:57:47.707Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6d0533e60a97a184eeaf",
+                "58e659ecb58676f062b631c5",
+                "627240064b54920100cedee2",
+                "591580a5736a8e010072ff08",
+                "5a815e860d5bb6010056bec8"
+            ],
+            "order": 14,
+            "id": "579f6d0533e60a97a184eeae"
+        },
+        {
+            "updatedAt": "2022-05-04T09:01:12.247Z",
+            "createdAt": "2017-05-12T10:14:57.214Z",
+            "name": "Physique-chimie",
+            "degree_id": "54eb258cecd525756067ef51",
+            "subject_id": "55df09d17fcdb8937c1d4dd2",
+            "slug": "physique-chimie",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "59d49649948d740100c340f8",
+                "627240d04b54920100cedee5",
+                "59158b35736a8e010072ff0f",
+                "59a3cf488ba7120100ea790e",
+                "5a2e8eb95732f501001b81b3"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 14,
+            "id": "59158b21736a8e010072ff0e"
+        },
+        {
+            "updatedAt": "2021-07-23T08:47:39.787Z",
+            "createdAt": "2021-05-31T09:12:02.600Z",
+            "name": "Mathématiques",
+            "degree_id": "60741e511911c10100b141b8",
+            "subject_id": "54eb260eecd525756067ef58",
+            "slug": "mathematiques",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "60b4aad73ae1fc01009f2254"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 15,
+            "id": "60b4a8623ae1fc01009f2253"
+        },
+        {
+            "updatedAt": "2022-12-08T16:42:14.885Z",
+            "createdAt": "2022-12-08T16:07:14.987Z",
+            "name": "Français",
+            "degree_id": "6385fba04a59bc9ef0d26c0d",
+            "subject_id": "54eb2618ecd525756067ef59",
+            "slug": "francais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "63920bdcbcd3c10100ebd27a"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 17,
+            "id": "63920bb2bcd3c10100ebd279"
+        },
+        {
+            "updatedAt": "2024-02-06T08:24:28.927Z",
+            "createdAt": "2019-05-17T11:37:07.391Z",
+            "name": "Enseignement scientifique",
+            "degree_id": "5cd020dbafd5f7d98fa4ca92",
+            "subject_id": "5cd19334865e4a010069ac25",
+            "slug": "enseignement-scientifique",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5cde9d31655d020100fcd3a7",
+                "64f5d7ed9c0712010085e812"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 18,
+            "id": "5cde9ce3bc3ce70100f6bf98"
+        },
+        {
+            "updatedAt": "2024-02-06T08:21:27.577Z",
+            "createdAt": "2019-05-17T12:17:17.238Z",
+            "name": "Géopolitique et sciences politiques",
+            "degree_id": "5cd020dbafd5f7d98fa4ca92",
+            "subject_id": "5cd19327865e4a010069ac24",
+            "slug": "geopolitique-et-sciences-politiques",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5ce7ab57bc3ce70100f6c451"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 18,
+            "is_optional": true,
+            "id": "5cdea64dbc3ce70100f6bfaf"
+        },
+        {
+            "updatedAt": "2021-03-15T15:39:28.520Z",
+            "createdAt": "2019-05-14T13:32:51.821Z",
+            "name": "SVT",
+            "degree_id": "5cd020dbafd5f7d98fa4ca92",
+            "subject_id": "54eb2633ecd525756067ef5c",
+            "slug": "svt",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5cdac3c5bc3ce70100f6bf11",
+                "58e65a21b58676f062b634af",
+                "59a55a918ba7120100ea7b61",
+                "5ad89c44abfa2f0100fde9c6",
+                "5e721bc528e637010043f740",
+                "604f7fb04440ce0100dd6e5c"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 18,
+            "is_optional": true,
+            "id": "5cdac383655d020100fcd35c"
+        },
+        {
+            "updatedAt": "2021-03-15T15:31:07.501Z",
+            "createdAt": "2019-05-24T12:28:27.225Z",
+            "name": "Physique-chimie",
+            "degree_id": "5cd020dbafd5f7d98fa4ca92",
+            "subject_id": "55df09d17fcdb8937c1d4dd2",
+            "slug": "physique-chimie",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5ce7e370655d020100fcd923",
+                "5e2ee1ab09e0a80100fde3f9",
+                "604f7db54440ce0100dd6e55",
+                "58e65a35b58676f062b6365b",
+                "5a819a210d5bb6010056bf40",
+                "5a04546bda426e01009455c2",
+                "5a840a420d5bb6010056c43b",
+                "5b2a7045b4c87d0100407a07"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 18,
+            "is_optional": true,
+            "id": "5ce7e36b655d020100fcd922"
+        },
+        {
+            "updatedAt": "2021-03-15T13:28:23.933Z",
+            "createdAt": "2019-05-17T06:45:09.728Z",
+            "name": "Mathématiques",
+            "degree_id": "5cd020dbafd5f7d98fa4ca92",
+            "subject_id": "54eb260eecd525756067ef58",
+            "slug": "mathematiques",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5cde5d75655d020100fcd394",
+                "5e1f086e09e0a80100fddc66",
+                "604f60eb4440ce0100dd6e3c",
+                "58e65a1bb58676f062b63439",
+                "59a55a988ba7120100ea7b62",
+                "5a0aa72ada426e010094629d",
+                "5a901cc4982aaf0100c0df63",
+                "5b30e1015c1aec0100cab97d",
+                "5b9271618014bb01009fca24"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 18,
+            "is_optional": true,
+            "id": "5cde5875655d020100fcd393"
+        },
+        {
+            "updatedAt": "2019-08-07T12:37:29.809Z",
+            "createdAt": "2019-05-15T13:46:12.925Z",
+            "name": "Histoire",
+            "degree_id": "5cd020daafd5f7d98fa4ca91",
+            "subject_id": "54eb2621ecd525756067ef5a",
+            "slug": "histoire",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5cdc182cbc3ce70100f6bf1f",
+                "595cefce42ddc30100cf04cf",
+                "595cf19342ddc30100cf04d6",
+                "58e65a09b58676f062b632eb"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 27,
+            "id": "5cdc1824bc3ce70100f6bf1e"
+        },
+        {
+            "updatedAt": "2019-08-07T12:38:28.782Z",
+            "createdAt": "2019-05-13T13:40:14.087Z",
+            "name": "Géographie",
+            "degree_id": "5cd020daafd5f7d98fa4ca91",
+            "subject_id": "54eb262aecd525756067ef5b",
+            "slug": "geographie",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5cd973cdad67740100f20b11",
+                "58e65a16b58676f062b633d7"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 27,
+            "id": "5cd973bead67740100f20b10"
+        },
+        {
+            "updatedAt": "2019-08-07T12:21:28.432Z",
+            "createdAt": "2019-08-07T12:20:49.046Z",
+            "name": "Espagnol",
+            "degree_id": "5cd020daafd5f7d98fa4ca91",
+            "subject_id": "5b97cb5c14bfaf0100c5c56e",
+            "slug": "espagnol",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b9faa078014bb01009fd0e1"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 27,
+            "id": "5d4ac221bc3ce70100f6fa42"
+        },
+        {
+            "updatedAt": "2019-08-07T12:33:14.304Z",
+            "createdAt": "2019-05-13T15:33:29.831Z",
+            "name": "SES",
+            "degree_id": "5cd020daafd5f7d98fa4ca91",
+            "subject_id": "54eb263cecd525756067ef5d",
+            "slug": "ses",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5cd98e51ad67740100f20b1b",
+                "58e65a8eb58676f062b63c95",
+                "58b6a5e0aa82de0100626f48",
+                "5a7afa610d5bb6010056b6d3"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 27,
+            "id": "5cd98e49ad67740100f20b1a"
+        },
+        {
+            "updatedAt": "2022-02-24T13:21:46.319Z",
+            "createdAt": "2019-08-07T12:13:08.457Z",
+            "name": "Anglais",
+            "degree_id": "5cd020daafd5f7d98fa4ca91",
+            "subject_id": "5af9b34ad466a501002e96bd",
+            "slug": "anglais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5afaa9dcb6dbe10100eedd1f",
+                "6217866aa6f1520100a34708"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 27,
+            "id": "5d4ac054bc3ce70100f6fa3a"
+        },
+        {
+            "updatedAt": "2019-05-24T14:02:30.242Z",
+            "createdAt": "2019-05-24T14:01:18.381Z",
+            "name": "Sciences numériques et technologie",
+            "degree_id": "5cd020daafd5f7d98fa4ca91",
+            "subject_id": "5cd1933dad67740100f20a8b",
+            "slug": "sciences-numeriques-et-technologie",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5ce7f935bc3ce70100f6c500"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 27,
+            "id": "5ce7f92ebc3ce70100f6c4ff"
+        },
+        {
+            "updatedAt": "2019-10-10T14:00:48.400Z",
+            "createdAt": "2019-05-22T14:21:18.345Z",
+            "name": "Français",
+            "degree_id": "5cd020daafd5f7d98fa4ca91",
+            "subject_id": "54eb2618ecd525756067ef59",
+            "slug": "francais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5ce55ae5655d020100fcd7ea",
+                "58e65b32b58676f062b64617",
+                "5acca9ae5299d50100d479f4",
+                "595ced8242ddc30100cf04b0",
+                "5880f165e45f8901001eae87",
+                "58b685ddaa82de0100626d62",
+                "58b6a797aa82de0100626f4b",
+                "58b6cebcaa82de010062701c",
+                "58b6d6fcaa82de010062707c",
+                "58b531b6aa82de0100625f0b",
+                "5d9f3038655d020100fd632d"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 27,
+            "id": "5ce55ade655d020100fcd7e9"
+        },
+        {
+            "updatedAt": "2019-08-07T12:19:18.857Z",
+            "createdAt": "2019-08-07T12:19:05.233Z",
+            "name": "Allemand",
+            "degree_id": "5cd020daafd5f7d98fa4ca91",
+            "subject_id": "5b97cb5714bfaf0100c5c56d",
+            "slug": "allemand",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b97cb8914bfaf0100c5c571"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 27,
+            "id": "5d4ac1b9655d020100fd18e3"
+        },
+        {
+            "updatedAt": "2019-05-24T15:24:56.012Z",
+            "createdAt": "2019-05-24T08:15:37.105Z",
+            "name": "Enseignement moral et civique",
+            "degree_id": "5cd020daafd5f7d98fa4ca91",
+            "subject_id": "5b97cb6614bfaf0100c5c56f",
+            "slug": "enseignement-moral-et-civique",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5ce7a838655d020100fcd896"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 27,
+            "id": "5ce7a829bc3ce70100f6c43f"
+        },
+        {
+            "updatedAt": "2019-08-07T12:39:08.170Z",
+            "createdAt": "2019-05-14T09:41:35.460Z",
+            "name": "SVT",
+            "degree_id": "5cd020daafd5f7d98fa4ca91",
+            "subject_id": "54eb2633ecd525756067ef5c",
+            "slug": "svt",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5cda8d68865e4a010069ac8f",
+                "58e65a28b58676f062b6351d",
+                "59a55aee8ba7120100ea7b63",
+                "5accbbdc5299d50100d47a59"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 27,
+            "id": "5cda8d4f865e4a010069ac8e"
+        },
+        {
+            "updatedAt": "2020-03-03T10:54:25.679Z",
+            "createdAt": "2019-05-24T15:00:58.303Z",
+            "name": "SES",
+            "degree_id": "5cd020dbafd5f7d98fa4ca92",
+            "subject_id": "54eb263cecd525756067ef5d",
+            "slug": "ses",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5ce80736bc3ce70100f6c51e",
+                "58b6a5e0aa82de0100626f48",
+                "58e65a8eb58676f062b63c95",
+                "5a7afa610d5bb6010056b6d3",
+                "5e5e376128e637010043e671"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 28,
+            "is_optional": true,
+            "id": "5ce8072abc3ce70100f6c51d"
+        },
+        {
+            "updatedAt": "2019-08-07T12:21:54.361Z",
+            "createdAt": "2019-08-07T12:21:42.386Z",
+            "name": "Espagnol",
+            "degree_id": "5cd020dbafd5f7d98fa4ca92",
+            "subject_id": "5b97cb5c14bfaf0100c5c56e",
+            "slug": "espagnol",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b9faa078014bb01009fd0e1"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 28,
+            "id": "5d4ac256bc3ce70100f6fa46"
+        },
+        {
+            "updatedAt": "2022-02-24T15:56:42.494Z",
+            "createdAt": "2019-08-07T12:14:39.500Z",
+            "name": "Anglais",
+            "degree_id": "5cd020dbafd5f7d98fa4ca92",
+            "subject_id": "5af9b34ad466a501002e96bd",
+            "slug": "anglais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5afaa9dcb6dbe10100eedd1f",
+                "6217866aa6f1520100a34708"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 28,
+            "id": "5d4ac0afbc3ce70100f6fa3b"
+        },
+        {
+            "updatedAt": "2024-04-29T12:15:48.801Z",
+            "createdAt": "2019-05-20T13:42:10.753Z",
+            "name": "Histoire",
+            "degree_id": "5cd020dbafd5f7d98fa4ca92",
+            "subject_id": "54eb2621ecd525756067ef5a",
+            "slug": "histoire",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5ce2aecc655d020100fcd4f0",
+                "595cefce42ddc30100cf04cf",
+                "595cf19342ddc30100cf04d6",
+                "58e65ae3b58676f062b64027",
+                "5e66266a28e637010043eead",
+                "5ea1948628e63701004419d7",
+                "662f8f74f3b6d69f958f4931"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 28,
+            "id": "5ce2aeb2bc3ce70100f6c097"
+        },
+        {
+            "updatedAt": "2020-03-12T10:58:05.103Z",
+            "createdAt": "2019-05-20T09:49:50.310Z",
+            "name": "Géographie",
+            "degree_id": "5cd020dbafd5f7d98fa4ca92",
+            "subject_id": "54eb262aecd525756067ef5b",
+            "slug": "geographie",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5ce27866bc3ce70100f6bff1",
+                "58e65ad6b58676f062b63fdd",
+                "5e66412409e0a80100fdff4b",
+                "5a05a592da426e01009458ba"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 28,
+            "id": "5ce2783ebc3ce70100f6bff0"
+        },
+        {
+            "updatedAt": "2020-02-24T11:05:29.351Z",
+            "createdAt": "2019-06-06T13:55:04.175Z",
+            "name": "Sciences de l'ingénieur",
+            "degree_id": "5cd020dbafd5f7d98fa4ca92",
+            "subject_id": "5c3467db5a52450100942242",
+            "slug": "sciences-de-l-ingenieur",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5cf91b56655d020100fce6c2",
+                "5e53adf809e0a80100fdf8ee"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 28,
+            "is_optional": true,
+            "id": "5cf91b38655d020100fce6c1"
+        },
+        {
+            "updatedAt": "2019-08-07T12:19:58.424Z",
+            "createdAt": "2019-08-07T12:19:38.308Z",
+            "name": "Allemand",
+            "degree_id": "5cd020dbafd5f7d98fa4ca92",
+            "subject_id": "5b97cb5714bfaf0100c5c56d",
+            "slug": "allemand",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b97cb8914bfaf0100c5c571"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 28,
+            "id": "5d4ac1da655d020100fd18e4"
+        },
+        {
+            "updatedAt": "2019-05-23T14:53:02.415Z",
+            "createdAt": "2019-05-16T11:39:55.203Z",
+            "name": "Enseignement moral et civique",
+            "degree_id": "5cd020dbafd5f7d98fa4ca92",
+            "subject_id": "5b97cb6614bfaf0100c5c56f",
+            "slug": "enseignement-moral-et-civique",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5cdd4c58bc3ce70100f6bf2a"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 28,
+            "id": "5cdd4c0bbc3ce70100f6bf29"
+        },
+        {
+            "updatedAt": "2020-01-27T13:13:30.119Z",
+            "createdAt": "2019-05-24T14:24:23.051Z",
+            "name": "Numérique et sciences informatiques",
+            "degree_id": "5cd020dbafd5f7d98fa4ca92",
+            "subject_id": "5cd1931a865e4a010069ac22",
+            "slug": "numerique-et-sciences-informatiques",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5ce7fe9dbc3ce70100f6c50b",
+                "5e2ee1f909e0a80100fde3fb"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 28,
+            "is_optional": true,
+            "id": "5ce7fe97655d020100fcd94e"
+        },
+        {
+            "updatedAt": "2020-08-26T09:10:49.395Z",
+            "createdAt": "2020-08-26T09:10:26.409Z",
+            "name": "Allemand",
+            "degree_id": "5cd020dbafd5f7d98fa4ca93",
+            "subject_id": "5b97cb5714bfaf0100c5c56d",
+            "slug": "allemand",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b97cb8914bfaf0100c5c571"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 29,
+            "id": "5f4627021562320100b36eab"
+        },
+        {
+            "updatedAt": "2022-04-12T15:03:21.330Z",
+            "createdAt": "2019-11-06T15:45:36.308Z",
+            "name": "Humanités",
+            "degree_id": "5cd020dbafd5f7d98fa4ca93",
+            "subject_id": "5cd19320865e4a010069ac23",
+            "slug": "humanites",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5dc2eaae09e0a80100fdb82d",
+                "595ceaed42ddc30100cf0494",
+                "595ced8242ddc30100cf04b0",
+                "586e0b3616fe6e010036f561",
+                "58b57d54aa82de0100626136",
+                "58b6a797aa82de0100626f4b",
+                "58b69f26aa82de0100626ed8",
+                "58b67a5eaa82de0100626cf0",
+                "58b685ddaa82de0100626d62",
+                "58b6cebcaa82de010062701c",
+                "58e65a63b58676f062b639b3",
+                "5e70a46628e637010043f583",
+                "625594b9e65efb0100362a0a"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 29,
+            "is_optional": true,
+            "id": "5dc2eaa009e0a80100fdb82c"
+        },
+        {
+            "updatedAt": "2021-03-10T10:25:40.318Z",
+            "createdAt": "2019-11-07T15:04:43.688Z",
+            "name": "SVT",
+            "degree_id": "5cd020dbafd5f7d98fa4ca93",
+            "subject_id": "54eb2633ecd525756067ef5c",
+            "slug": "svt",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5dc4329609e0a80100fdb960",
+                "5ea1954428e63701004419d8",
+                "58e65b1cb58676f062b64513",
+                "599becc68ba7120100ea72d8",
+                "5ad062c901e94c0100d28352",
+                "5ad07e9ea3544d01001dba9a",
+                "5b1954e8b4c87d0100407200",
+                "60489ea44440ce0100dd6c21"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 29,
+            "is_optional": true,
+            "id": "5dc4328b09e0a80100fdb95f"
+        },
+        {
+            "updatedAt": "2022-02-24T15:57:09.210Z",
+            "createdAt": "2020-08-26T09:09:39.094Z",
+            "name": "Anglais",
+            "degree_id": "5cd020dbafd5f7d98fa4ca93",
+            "subject_id": "5af9b34ad466a501002e96bd",
+            "slug": "anglais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5afaa9dcb6dbe10100eedd1f",
+                "6217866aa6f1520100a34708"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 29,
+            "id": "5f4626d31562320100b36eaa"
+        },
+        {
+            "updatedAt": "2020-09-01T09:39:45.655Z",
+            "createdAt": "2020-01-21T16:16:50.605Z",
+            "name": "Philosophie",
+            "degree_id": "5cd020dbafd5f7d98fa4ca93",
+            "subject_id": "54eb2646ecd525756067ef5e",
+            "slug": "philosophie",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5e27240a09e0a80100fde1ac",
+                "5ea195af09e0a80100fe1e79",
+                "586e0b3616fe6e010036f561",
+                "58e65a63b58676f062b639b3",
+                "58b67a5eaa82de0100626cf0",
+                "58b69f26aa82de0100626ed8",
+                "58b57d54aa82de0100626136",
+                "586e1d1f16fe6e010036f58e",
+                "595ceaed42ddc30100cf0494"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 29,
+            "id": "5e2723f228e637010043d4b4"
+        },
+        {
+            "updatedAt": "2021-02-03T14:07:41.835Z",
+            "createdAt": "2019-06-13T13:10:11.013Z",
+            "name": "SES",
+            "degree_id": "5cd020dbafd5f7d98fa4ca93",
+            "subject_id": "54eb263cecd525756067ef5d",
+            "slug": "ses",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5d024b3bbc3ce70100f6d356",
+                "5ea1961509e0a80100fe1e7a",
+                "58e65b39b58676f062b64665",
+                "58b6a5e0aa82de0100626f48",
+                "5a4b4b06b880b10100580868",
+                "586e70a016fe6e010036f692"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 29,
+            "is_optional": true,
+            "id": "5d024b33bc3ce70100f6d355"
+        },
+        {
+            "updatedAt": "2021-11-09T14:16:20.686Z",
+            "createdAt": "2019-11-06T16:23:54.777Z",
+            "name": "Histoire",
+            "degree_id": "5cd020dbafd5f7d98fa4ca93",
+            "subject_id": "54eb2621ecd525756067ef5a",
+            "slug": "histoire",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5dc2f3af09e0a80100fdb850",
+                "595cefce42ddc30100cf04cf",
+                "595cf19342ddc30100cf04d6",
+                "58e65aeab58676f062b64055",
+                "5ea1948628e63701004419d7",
+                "5880edffe45f8901001eadac"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 29,
+            "id": "5dc2f39a09e0a80100fdb84f"
+        },
+        {
+            "updatedAt": "2019-06-18T10:12:53.898Z",
+            "createdAt": "2019-06-18T09:27:07.029Z",
+            "name": "Enseignement scientifique",
+            "degree_id": "5cd020dbafd5f7d98fa4ca93",
+            "subject_id": "5cd19334865e4a010069ac25",
+            "slug": "enseignement-scientifique",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5d08ae7bbc3ce70100f6d50b"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 29,
+            "id": "5d08ae6bbc3ce70100f6d50a"
+        },
+        {
+            "updatedAt": "2021-11-09T15:09:27.323Z",
+            "createdAt": "2019-06-17T09:19:58.854Z",
+            "name": "Géographie",
+            "degree_id": "5cd020dbafd5f7d98fa4ca93",
+            "subject_id": "54eb262aecd525756067ef5b",
+            "slug": "geographie",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5d075b6dbc3ce70100f6d4b2",
+                "5ea193f609e0a80100fe1e78",
+                "5a05a869da426e0100945922",
+                "58e65aceb58676f062b63fa1",
+                "5880edffe45f8901001eadac"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 29,
+            "id": "5d075b3ebc3ce70100f6d4b1"
+        },
+        {
+            "updatedAt": "2020-08-26T09:11:48.775Z",
+            "createdAt": "2020-08-26T09:11:29.762Z",
+            "name": "Espagnol",
+            "degree_id": "5cd020dbafd5f7d98fa4ca93",
+            "subject_id": "5b97cb5c14bfaf0100c5c56e",
+            "slug": "espagnol",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5b9faa078014bb01009fd0e1"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 29,
+            "id": "5f4627411562320100b36f75"
+        },
+        {
+            "updatedAt": "2024-04-04T10:13:49.295Z",
+            "createdAt": "2019-11-13T11:04:50.702Z",
+            "name": "Numérique et sciences informatiques",
+            "degree_id": "5cd020dbafd5f7d98fa4ca93",
+            "subject_id": "5cd1931a865e4a010069ac22",
+            "slug": "numerique-et-sciences-informatiques",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5dcbe39528e637010043bcc9",
+                "62559502e65efb0100362a0b",
+                "660e7d5da65656cbb6af9baf"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 29,
+            "is_optional": true,
+            "id": "5dcbe35228e637010043bcc8"
+        },
+        {
+            "updatedAt": "2019-11-07T09:14:03.825Z",
+            "createdAt": "2019-11-07T08:56:06.093Z",
+            "name": "Enseignement moral et civique",
+            "degree_id": "5cd020dbafd5f7d98fa4ca93",
+            "subject_id": "5b97cb6614bfaf0100c5c56f",
+            "slug": "enseignement-moral-et-civique",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5dc3dc5f28e637010043bbfa"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 29,
+            "id": "5dc3dc2609e0a80100fdb93c"
+        },
+        {
+            "updatedAt": "2021-03-17T07:52:57.554Z",
+            "createdAt": "2019-06-17T09:13:51.456Z",
+            "name": "Géopolitique et sciences politiques",
+            "degree_id": "5cd020dbafd5f7d98fa4ca93",
+            "subject_id": "5cd19327865e4a010069ac24",
+            "slug": "geopolitique-et-sciences-politiques",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5d075a3c655d020100fcf020",
+                "6051b5474440ce0100dd7055",
+                "6051b4344440ce0100dd7051"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 129,
+            "is_optional": true,
+            "id": "5d0759cf655d020100fcf01f"
+        },
+        {
+            "updatedAt": "2021-02-23T10:32:54.993Z",
+            "createdAt": "2019-11-13T15:37:49.674Z",
+            "name": "Physique-chimie",
+            "degree_id": "5cd020dbafd5f7d98fa4ca93",
+            "subject_id": "55df09d17fcdb8937c1d4dd2",
+            "slug": "physique-chimie",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5dcc238328e637010043bda0",
+                "6034d9ca4440ce0100dd51b8",
+                "5ea1957728e63701004419d9",
+                "58e65a35b58676f062b6365b",
+                "5a819a210d5bb6010056bf40",
+                "5a04546bda426e01009455c2",
+                "5b2a7045b4c87d0100407a07",
+                "5a840a420d5bb6010056c43b"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 129,
+            "is_optional": true,
+            "id": "5dcc234d09e0a80100fdbaf4"
+        },
+        {
+            "updatedAt": "2021-03-15T09:57:14.011Z",
+            "createdAt": "2019-06-21T13:30:32.065Z",
+            "name": "Mathématiques",
+            "degree_id": "5cd020dbafd5f7d98fa4ca93",
+            "subject_id": "54eb260eecd525756067ef58",
+            "slug": "mathematiques",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "5d0cdc1a655d020100fcf804",
+                "587607f74b9c840100c01aed",
+                "604f2f714440ce0100dd6e32",
+                "58e65a40b58676f062b6375f",
+                "599d4c588ba7120100ea751a",
+                "59cbaf76948d740100c331f9",
+                "5a041892da426e010094553e",
+                "5a0b07fada426e010094664b",
+                "5a98006b982aaf0100c0e268",
+                "5b605c9e14bfaf0100c5b482"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 129,
+            "is_optional": true,
+            "id": "5d0cdbf8655d020100fcf803"
+        },
+        {
+            "updatedAt": "2021-08-03T14:28:52.756Z",
+            "createdAt": "2021-08-03T12:25:41.156Z",
+            "name": "Espagnol",
+            "degree_id": "60df09b58ecc850100bfe0b3",
+            "subject_id": "5b97cb5c14bfaf0100c5c56e",
+            "slug": "espagnol",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "610935d381546a0100bb3ae6"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 129,
+            "id": "610935c581546a0100bb3ae5"
+        },
+        {
+            "updatedAt": "2021-07-23T08:47:37.595Z",
+            "createdAt": "2021-07-02T12:47:19.872Z",
+            "name": "Mathématiques",
+            "degree_id": "60741e391911c10100b141b7",
+            "subject_id": "54eb260eecd525756067ef58",
+            "slug": "mathematiques",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "60df0afa8ecc850100bfe0b5"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 130,
+            "id": "60df0ad78ecc850100bfe0b4"
+        },
+        {
+            "updatedAt": "2021-08-05T15:03:28.031Z",
+            "createdAt": "2021-08-05T14:44:50.950Z",
+            "name": "Français",
+            "degree_id": "60df09a48ecc850100bfe0b2",
+            "subject_id": "54eb2618ecd525756067ef59",
+            "slug": "francais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "610bf96f81546a0100bb467f"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 131,
+            "id": "610bf96281546a0100bb467e"
+        },
+        {
+            "updatedAt": "2021-07-23T09:36:14.947Z",
+            "createdAt": "2021-07-02T13:38:07.590Z",
+            "name": "Anglais",
+            "degree_id": "60df09b58ecc850100bfe0b3",
+            "subject_id": "5af9b34ad466a501002e96bd",
+            "slug": "anglais",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "60fa8c8b18d95e01006cb643"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 132,
+            "id": "60df16bf8ecc850100bfe18a"
+        },
+        {
+            "updatedAt": "2021-07-30T12:50:18.790Z",
+            "createdAt": "2021-07-30T10:25:51.395Z",
+            "name": "Allemand",
+            "degree_id": "60df09b58ecc850100bfe0b3",
+            "subject_id": "5b97cb5714bfaf0100c5c56d",
+            "slug": "allemand",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "6103d3c0e9680c010062cdee"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "order": 132,
+            "id": "6103d3afe9680c010062cded"
+        },
+        {
+            "subject_id": "54eb260eecd525756067ef58",
+            "degree_id": "54eb25e6ecd525756067ef55",
+            "name": "Mathématiques",
+            "slug": "mathematiques",
+            "createdAt": "2015-02-23T13:19:22.969Z",
+            "updatedAt": "2018-09-25T12:14:58.309Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6c6833e60a97a184bbcb",
+                "58876fb0c170510100b220df",
+                "58e65a48b58676f062b63809",
+                "59a55b228ba7120100ea7b65",
+                "5a3007bdb880b1010057f8fa",
+                "5b2772b85c1aec0100cab33f",
+                "5baa26c114bfaf0100c5cd53"
+            ],
+            "id": "579f6c6833e60a97a184bbca"
+        },
+        {
+            "subject_id": "54eb2621ecd525756067ef5a",
+            "degree_id": "54eb25c4ecd525756067ef53",
+            "name": "Histoire",
+            "slug": "histoire",
+            "createdAt": "2015-02-23T13:55:24.989Z",
+            "updatedAt": "2017-07-25T08:19:51.974Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6cc133e60a97a184d81d",
+                "58e65ae3b58676f062b64027",
+                "595cefce42ddc30100cf04cf",
+                "595cf19342ddc30100cf04d6"
+            ],
+            "id": "579f6cc133e60a97a184d81c"
+        },
+        {
+            "updatedAt": "2017-07-25T08:19:34.005Z",
+            "createdAt": "2016-09-23T11:30:43.451Z",
+            "name": "Histoire",
+            "degree_id": "54eb259eecd525756067ef52",
+            "subject_id": "54eb2621ecd525756067ef5a",
+            "slug": "histoire",
+            "resources_list": [],
+            "is_published": true,
+            "__v": 0,
+            "chapter_indexes_list": [
+                "57e512ffd77672010085c6e5",
+                "58e65ae3b58676f062b64027",
+                "595cefce42ddc30100cf04cf",
+                "595cf19342ddc30100cf04d6"
+            ],
+            "id": "57e51263d77672010085c6e4"
+        },
+        {
+            "updatedAt": "2017-12-11T16:59:54.580Z",
+            "createdAt": "2017-03-06T13:32:22.468Z",
+            "name": "Histoire",
+            "degree_id": "54f5f0c5e050004d2b0107e1",
+            "subject_id": "54eb2621ecd525756067ef5a",
+            "slug": "histoire",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "58c176fd58a0fb0100e90fa8",
+                "58e65b5fb58676f062b648df",
+                "5a280c1cf290570100195d4f",
+                "5a281c4bf290570100195e18"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "id": "58bd64e6aa82de01006285b7"
+        },
+        {
+            "subject_id": "54eb262aecd525756067ef5b",
+            "degree_id": "54eb25c4ecd525756067ef53",
+            "name": "Géographie",
+            "slug": "geographie",
+            "createdAt": "2015-02-23T13:56:04.874Z",
+            "updatedAt": "2017-11-10T13:12:26.174Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6cde33e60a97a184e1c5",
+                "58e659e6b58676f062b631a9",
+                "5a05a592da426e01009458ba"
+            ],
+            "id": "579f6cdd33e60a97a184e1c4"
+        },
+        {
+            "subject_id": "54eb260eecd525756067ef58",
+            "degree_id": "5638bfb3e43fec315261faff",
+            "name": "Mathématiques",
+            "slug": "mathematiques",
+            "createdAt": "2015-11-03T14:09:12.835Z",
+            "updatedAt": "2017-05-02T08:17:08.090Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6dd133e60a97a18524b6",
+                "588f358b86d9c80100a9c495",
+                "58e65a7cb58676f062b63b49"
+            ],
+            "id": "579f6dd133e60a97a18524b5"
+        },
+        {
+            "updatedAt": "2022-08-09T15:29:46.038Z",
+            "createdAt": "2017-06-14T12:40:57.265Z",
+            "name": "Mathématiques",
+            "degree_id": "54f5f0c5e050004d2b0107e1",
+            "subject_id": "54eb260eecd525756067ef58",
+            "slug": "mathematiques",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "59412f96e063670100aaca95",
+                "5a55f1c472a55d0100796e72",
+                "5a815e860d5bb6010056bec8",
+                "62f27d693ea8cc01000840b4"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "id": "59412ed9e063670100aaca94"
+        },
+        {
+            "subject_id": "54eb262aecd525756067ef5b",
+            "degree_id": "56387b16e43fec315261fa36",
+            "name": "Géographie",
+            "slug": "geographie",
+            "createdAt": "2015-11-03T11:02:47.685Z",
+            "updatedAt": "2017-11-10T13:12:38.545Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6dcc33e60a97a18524ae",
+                "58e65a1ab58676f062b6342d",
+                "5a05a592da426e01009458ba"
+            ],
+            "id": "579f6dcc33e60a97a18524ad"
+        },
+        {
+            "subject_id": "54eb260eecd525756067ef58",
+            "degree_id": "54eb25feecd525756067ef57",
+            "name": "Mathématiques",
+            "slug": "mathematiques",
+            "createdAt": "2016-02-03T09:51:02.315Z",
+            "updatedAt": "2018-06-25T09:10:49.453Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6e2633e60a97a1853d17",
+                "588b160186d9c80100a9c449",
+                "58e65a7cb58676f062b63b49",
+                "59a55af48ba7120100ea7b64",
+                "5b30b1995c1aec0100cab917"
+            ],
+            "id": "579f6e2633e60a97a1853d16"
+        },
+        {
+            "updatedAt": "2017-12-13T12:26:55.496Z",
+            "createdAt": "2016-11-24T15:24:58.810Z",
+            "name": "Géographie",
+            "degree_id": "54f5f0dae050004d2b0107e2",
+            "subject_id": "54eb262aecd525756067ef5b",
+            "slug": "geographie",
+            "resources_list": [],
+            "is_published": true,
+            "__v": 0,
+            "chapter_indexes_list": [
+                "58370657065f2001001d5a30",
+                "58e65a3db58676f062b63717",
+                "5a311c8fb880b1010057f927"
+            ],
+            "id": "5837064a065f2001001d5a2f"
+        },
+        {
+            "subject_id": "54eb260eecd525756067ef58",
+            "degree_id": "54eb259eecd525756067ef52",
+            "name": "Mathématiques",
+            "slug": "mathematiques",
+            "createdAt": "2015-11-10T09:49:57.073Z",
+            "updatedAt": "2018-09-07T12:38:57.324Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6dd333e60a97a18524ba",
+                "58e65a1bb58676f062b63439",
+                "59a55a988ba7120100ea7b62",
+                "5a0aa72ada426e010094629d",
+                "5a901cc4982aaf0100c0df63",
+                "5b30e1015c1aec0100cab97d",
+                "5b9271618014bb01009fca24"
+            ],
+            "id": "579f6dd333e60a97a18524b9"
+        },
+        {
+            "updatedAt": "2017-11-10T13:11:46.554Z",
+            "createdAt": "2016-09-23T11:23:30.083Z",
+            "name": "Géographie",
+            "degree_id": "54eb25d9ecd525756067ef54",
+            "subject_id": "54eb262aecd525756067ef5b",
+            "slug": "geographie",
+            "resources_list": [],
+            "is_published": true,
+            "__v": 0,
+            "chapter_indexes_list": [
+                "57e510c6d77672010085c6e3",
+                "58e65ad6b58676f062b63fdd",
+                "5a05a592da426e01009458ba"
+            ],
+            "id": "57e510b2d77672010085c6e2"
+        },
+        {
+            "subject_id": "54eb2621ecd525756067ef5a",
+            "degree_id": "56387b16e43fec315261fa36",
+            "name": "Histoire",
+            "slug": "histoire",
+            "createdAt": "2015-11-03T09:27:09.843Z",
+            "updatedAt": "2017-07-25T08:19:26.450Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6cdc33e60a97a184e1c3",
+                "58e65ae3b58676f062b64027",
+                "595cefce42ddc30100cf04cf",
+                "595cf19342ddc30100cf04d6"
+            ],
+            "id": "579f6cdc33e60a97a184e1c2"
+        },
+        {
+            "updatedAt": "2017-12-13T12:48:57.050Z",
+            "createdAt": "2017-02-20T15:37:52.472Z",
+            "name": "Géographie",
+            "degree_id": "54f5f0c5e050004d2b0107e1",
+            "subject_id": "54eb262aecd525756067ef5b",
+            "slug": "geographie",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "58ac1a03175def01004c31ae",
+                "58e65b04b58676f062b64251",
+                "5a3121b85732f501001b860a"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "id": "58ab0d50175def01004c2f43"
+        },
+        {
+            "subject_id": "54eb260eecd525756067ef58",
+            "degree_id": "54eb25c4ecd525756067ef53",
+            "name": "Mathématiques",
+            "slug": "mathematiques",
+            "createdAt": "2016-02-23T16:54:02.588Z",
+            "updatedAt": "2018-10-05T13:56:23.882Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6e2633e60a97a1853d19",
+                "58e65a2db58676f062b63597",
+                "5a294341b880b1010057f04e",
+                "59a55a988ba7120100ea7b62",
+                "5b3635945c1aec0100cac2a5",
+                "5bb76d8714bfaf0100c5d298"
+            ],
+            "id": "579f6e2633e60a97a1853d18"
+        },
+        {
+            "updatedAt": "2018-02-12T10:15:54.517Z",
+            "createdAt": "2017-08-29T08:58:04.986Z",
+            "name": "Mathématiques",
+            "degree_id": "54f5f0dae050004d2b0107e2",
+            "subject_id": "54eb260eecd525756067ef58",
+            "slug": "mathematiques",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "59a52ce28ba7120100ea7b1d",
+                "5a55fe2f72a55d0100796edc",
+                "5a815e860d5bb6010056bec8"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "id": "59a52c9c8ba7120100ea7b1c"
+        },
+        {
+            "subject_id": "56e7e1a2269497cf600c426c",
+            "degree_id": "54eb25c4ecd525756067ef53",
+            "name": "Sciences",
+            "slug": "sciences",
+            "createdAt": "2016-03-15T10:44:18.977Z",
+            "updatedAt": "2018-04-30T09:34:01.612Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6e2b33e60a97a1853d35",
+                "58aef8fb0d582301006a3c41",
+                "58c114a458a0fb0100e90cfb",
+                "58e65b59b58676f062b6486f",
+                "5ae6e308b8605901002a3c5a"
+            ],
+            "id": "579f6e2b33e60a97a1853d34"
+        },
+        {
+            "updatedAt": "2018-02-12T11:11:38.638Z",
+            "createdAt": "2017-09-04T16:03:47.768Z",
+            "name": "SVT",
+            "degree_id": "54f5f0c5e050004d2b0107e1",
+            "subject_id": "54eb2633ecd525756067ef5c",
+            "slug": "svt",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "58edf6ac20c39a0100de3b4f",
+                "58f8c7f527dcff0100199402",
+                "5a816977c5806701009afaa0"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "id": "59ad79638ba7120100ea970b"
+        },
+        {
+            "subject_id": "54eb260eecd525756067ef58",
+            "degree_id": "54f5ef50e050004d2b0107df",
+            "name": "Mathématiques",
+            "slug": "mathematiques",
+            "createdAt": "2015-07-30T12:59:05.526Z",
+            "updatedAt": "2019-01-02T16:23:41.785Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6d8a33e60a97a18512c0",
+                "58e65a0eb58676f062b63339",
+                "5a0418afda426e010094553f",
+                "5a8ec13994c0a101001c0cc8",
+                "59a55a988ba7120100ea7b62",
+                "5b3c915b5c1aec0100cac47a",
+                "5c2ce58d01149701009f374f"
+            ],
+            "id": "579f6d8a33e60a97a18512bf"
+        },
+        {
+            "updatedAt": "2018-06-13T07:41:09.496Z",
+            "createdAt": "2016-09-23T12:58:32.394Z",
+            "name": "Sciences",
+            "degree_id": "54eb25d9ecd525756067ef54",
+            "subject_id": "56e7e1a2269497cf600c426c",
+            "slug": "sciences",
+            "resources_list": [],
+            "is_published": true,
+            "__v": 0,
+            "chapter_indexes_list": [
+                "57e52704d77672010085c6ee",
+                "58b59dfdaa82de01006265fe",
+                "58c123fe58a0fb0100e90e15",
+                "58e65b59b58676f062b6486f",
+                "5ae6e308b8605901002a3c5a"
+            ],
+            "id": "57e526f8d77672010085c6ed"
+        },
+        {
+            "updatedAt": "2018-02-07T13:08:49.478Z",
+            "createdAt": "2016-08-31T08:32:52.080Z",
+            "name": "SES",
+            "degree_id": "54eb25c4ecd525756067ef53",
+            "subject_id": "54eb263cecd525756067ef5d",
+            "slug": "ses",
+            "resources_list": [],
+            "is_published": true,
+            "__v": 0,
+            "chapter_indexes_list": [
+                "57c6963e187aa701008a4d3f",
+                "58b6a5e0aa82de0100626f48",
+                "58e65a8eb58676f062b63c95",
+                "5a7afa610d5bb6010056b6d3"
+            ],
+            "id": "57c69634187aa701008a4d3e"
+        },
+        {
+            "updatedAt": "2017-07-25T08:19:42.929Z",
+            "createdAt": "2016-09-23T11:37:03.114Z",
+            "name": "Histoire",
+            "degree_id": "54eb25d9ecd525756067ef54",
+            "subject_id": "54eb2621ecd525756067ef5a",
+            "slug": "histoire",
+            "resources_list": [],
+            "is_published": true,
+            "__v": 0,
+            "chapter_indexes_list": [
+                "57e513ffd77672010085c6e7",
+                "58e65ae3b58676f062b64027",
+                "595cefce42ddc30100cf04cf",
+                "595cf19342ddc30100cf04d6"
+            ],
+            "id": "57e513dfd77672010085c6e6"
+        },
+        {
+            "updatedAt": "2017-11-10T13:12:11.078Z",
+            "createdAt": "2016-09-23T11:17:38.728Z",
+            "name": "Géographie",
+            "degree_id": "54eb259eecd525756067ef52",
+            "subject_id": "54eb262aecd525756067ef5b",
+            "slug": "geographie",
+            "resources_list": [],
+            "is_published": true,
+            "__v": 0,
+            "chapter_indexes_list": [
+                "57e50f70d77672010085c6e1",
+                "58e65ad2b58676f062b63fc1",
+                "5a05a592da426e01009458ba"
+            ],
+            "id": "57e50f52d77672010085c6e0"
+        },
+        {
+            "subject_id": "54eb2618ecd525756067ef59",
+            "degree_id": "56387b16e43fec315261fa36",
+            "name": "Français",
+            "slug": "francais",
+            "createdAt": "2015-11-03T13:15:36.933Z",
+            "updatedAt": "2020-04-23T13:07:03.815Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6dcd33e60a97a18524b0",
+                "5878ede0976de7010063474f",
+                "58b54e67aa82de0100625fa5",
+                "58b6a797aa82de0100626f4b",
+                "58b685ddaa82de0100626d62",
+                "5880f165e45f8901001eae87",
+                "58e65a81b58676f062b63b97",
+                "58b6d6fcaa82de010062707c",
+                "58b6cebcaa82de010062701c",
+                "595ced8242ddc30100cf04b0",
+                "5d9f3038655d020100fd632d",
+                "5ea190ee28e63701004419d6"
+            ],
+            "id": "579f6dcd33e60a97a18524af"
+        },
+        {
+            "subject_id": "54eb2621ecd525756067ef5a",
+            "degree_id": "54f5ef50e050004d2b0107df",
+            "name": "Histoire",
+            "slug": "histoire",
+            "createdAt": "2015-07-21T12:40:52.300Z",
+            "updatedAt": "2017-07-25T08:19:15.765Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6d6e33e60a97a1850c18",
+                "58e65a09b58676f062b632eb",
+                "595cefce42ddc30100cf04cf",
+                "595cf19342ddc30100cf04d6"
+            ],
+            "id": "579f6d6e33e60a97a1850c17"
+        },
+        {
+            "subject_id": "54eb262aecd525756067ef5b",
+            "degree_id": "54f5ef50e050004d2b0107df",
+            "name": "Géographie",
+            "slug": "geographie",
+            "createdAt": "2015-09-02T14:30:15.977Z",
+            "updatedAt": "2017-11-08T10:04:58.485Z",
+            "is_published": true,
+            "chapter_indexes_list": [
+                "579f6dba33e60a97a18520a6",
+                "58e65a16b58676f062b633d7",
+                "5a02d6cada426e0100945387"
+            ],
+            "id": "579f6dba33e60a97a18520a5"
+        },
+        {
+            "updatedAt": "2017-12-11T16:59:44.598Z",
+            "createdAt": "2016-11-21T13:59:04.259Z",
+            "name": "Histoire",
+            "degree_id": "54f5f0dae050004d2b0107e2",
+            "subject_id": "54eb2621ecd525756067ef5a",
+            "slug": "histoire",
+            "resources_list": [],
+            "is_published": true,
+            "__v": 0,
+            "chapter_indexes_list": [
+                "5832ffdd065f2001001d59d9",
+                "58e65b00b58676f062b641e5",
+                "5a280c1cf290570100195d4f",
+                "5a281c4bf290570100195e18"
+            ],
+            "id": "5832fda8065f2001001d59d0"
+        },
+        {
+            "updatedAt": "2018-02-12T11:11:22.654Z",
+            "createdAt": "2017-04-12T09:42:48.886Z",
+            "name": "SVT",
+            "degree_id": "54f5f0dae050004d2b0107e2",
+            "subject_id": "54eb2633ecd525756067ef5c",
+            "slug": "svt",
+            "resources_list": [],
+            "chapter_indexes_list": [
+                "58edf6ac20c39a0100de3b4f",
+                "58f8c7f527dcff0100199402",
+                "5a816977c5806701009afaa0"
+            ],
+            "is_published": true,
+            "__v": 0,
+            "id": "58edf69820c39a0100de3b4e"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+https://www.schoolmouv.fr/eleves/api/resources/cours/la-conscience/fiche-de-cours/pdf
+
+
+https://www.schoolmouv.fr/eleves/api/resources/cours/l-inconscient/fiche-de-cours/pdf
+
+
+fetch("https://www.schoolmouv.fr/eleves/api/resources/cours/la-conscience/fiche-de-cours/pdf", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9,fr;q=0.8,fr-FR;q=0.7",
+    "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDBhZDlkNTkzN2MzYjNiY2ZjNDU5YzUiLCJ0cmFja2luZ0lkIjoiNmM3N2NlMmUtY2FmMC00ODkwLWEzOTUtYjBhMDYyNjg3MWNlIiwicHJvZmlsZVR5cGUiOiJzdHVkZW50IiwiY3JlYXRlZEF0IjoiMjAyNC0wOC0xNFQxOTo1MTo1My4wMDBaIiwiaWF0IjoxNzIzNjY1MTEzLCJleHAiOjE3MjM2NzIzMTN9.MbVCZcWVDl0TX9eK18ePmrPMgM9nTN8X7HPhACW3Y4A",
+    "priority": "u=1, i",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"99\", \"Microsoft Edge\";v=\"127\", \"Chromium\";v=\"127\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-device": "mobile"
+  },
+  "referrer": "https://www.schoolmouv.fr/eleves/cours/la-conscience/fiche-de-cours",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "include"
+});
+
+
+curl "https://www.schoolmouv.fr/eleves/api/resources/cours/la-conscience/fiche-de-cours/pdf" ^
+  -H "accept: application/json, text/plain, */*" ^
+  -H "accept-language: en-US,en;q=0.9,fr;q=0.8,fr-FR;q=0.7" ^
+  -H "authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDBhZDlkNTkzN2MzYjNiY2ZjNDU5YzUiLCJ0cmFja2luZ0lkIjoiNmM3N2NlMmUtY2FmMC00ODkwLWEzOTUtYjBhMDYyNjg3MWNlIiwicHJvZmlsZVR5cGUiOiJzdHVkZW50IiwiY3JlYXRlZEF0IjoiMjAyNC0wOC0xNFQxOTo1MTo1My4wMDBaIiwiaWF0IjoxNzIzNjY1MTEzLCJleHAiOjE3MjM2NzIzMTN9.MbVCZcWVDl0TX9eK18ePmrPMgM9nTN8X7HPhACW3Y4A"
+
+
+
+https://www.schoolmouv.fr/eleves/api/chapters-indexes/5e27240a09e0a80100fde1ac/chapters
+
+
+curl "https://www.schoolmouv.fr/eleves/api/chapters-indexes/5e27240a09e0a80100fde1ac/chapters" 
+  -H "authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDBhZDlkNTkzN2MzYjNiY2ZjNDU5YzUiLCJ0cmFja2luZ0lkIjoiNmM3N2NlMmUtY2FmMC00ODkwLWEzOTUtYjBhMDYyNjg3MWNlIiwicHJvZmlsZVR5cGUiOiJzdHVkZW50IiwiY3JlYXRlZEF0IjoiMjAyNC0wOC0xNFQxOTo1MTo1My4wMDBaIiwiaWF0IjoxNzIzNjY1MTEzLCJleHAiOjE3MjM2NzIzMTN9.MbVCZcWVDl0TX9eK18ePmrPMgM9nTN8X7HPhACW3Y4A"

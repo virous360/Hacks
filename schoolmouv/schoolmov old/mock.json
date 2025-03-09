@@ -1,0 +1,182 @@
+[
+    {'id': '5dc2eae628e637010043bbd1', 'name': 'Éducation, transmission et émancipation', 'sheets': [
+            {'updatedAt': '2023-07-24T07: 12: 45.190Z', 'createdAt': '2019-11-06T15: 48: 50.783Z', 'name': "Le renouveau de l'éducation", 'sheet_type_id': '579f6c4933e60a97a184b49a', 'slug': 'le-renouveau-de-l-education', 'resources_list': [
+                    {'resource_type': 'Fiche de cours', '_id': '5dc2ec9209e0a80100fdb833', 'resource_id': '64be2429ffab63010014aaa6', 'is_published': True
+                    },
+                    {'resource_type': 'QCM', '_id': '5ed657e428e6370100445ff3', 'resource_id': '5eda5d430deaa401009f63dc', 'is_published': True
+                    },
+                    {'resource_type': 'Fiche de révision', '_id': '5f0737563947be0100be5dbb', 'resource_id': '626007f14b54920100cedc24', 'is_published': True
+                    }
+                ], 'is_published': True, '__v': 0, 'id': '5dc2eb6228e637010043bbd4', 'sheetTypeSlug': 'cours', 'resourceTypeSlug': 'fiche-de-cours'
+            },
+            {'updatedAt': '2020-08-28T12: 47: 51.497Z', 'createdAt': '2019-11-06T15: 57: 31.676Z', 'name': 'La transmission des savoirs', 'sheet_type_id': '579f6c4933e60a97a184b49a', 'slug': 'la-transmission-des-savoirs', 'resources_list': [
+                    {'resource_type': 'Fiche de cours', '_id': '5e4bfd0d28e637010043dd7d', 'resource_id': '5f086d3b3947be0100be60f4', 'is_published': True
+                    },
+                    {'resource_type': 'QCM', '_id': '5ee22eda0deaa401009f7016', 'resource_id': '5ee232e40deaa401009f7144', 'is_published': True
+                    },
+                    {'resource_type': 'Fiche de révision', '_id': '5f08866e3947be0100be615c', 'resource_id': '5f08866e3947be0100be615a', 'is_published': True
+                    }
+                ], 'is_published': True, '__v': 0, 'id': '5dc2ed6b28e637010043bbd5', 'sheetTypeSlug': 'cours', 'resourceTypeSlug': 'fiche-de-cours'
+            },
+            {'updatedAt': '2020-10-19T13: 16: 48.567Z', 'createdAt': '2019-11-06T15: 57: 42.071Z', 'name': "L'émancipation pour tous ?", 'sheet_type_id': '579f6c4933e60a97a184b49a', 'slug': 'l-emancipation-pour-tous-', 'resources_list': [
+                    {'resource_type': 'Fiche de cours', '_id': '5e4bfd5309e0a80100fdf523', 'resource_id': '5f5b4c8ec605450100baf238', 'is_published': True
+                    },
+                    {'resource_type': 'QCM', '_id': '5ee9eb740deaa401009f9040', 'resource_id': '5ee9eb740deaa401009f903f', 'is_published': True
+                    },
+                    {'resource_type': 'Fiche de révision', '_id': '5f48fde21f3276010020e305', 'resource_id': '5f48fde21f3276010020e303', 'is_published': True
+                    }
+                ], 'is_published': True, '__v': 0, 'id': '5dc2ed7628e637010043bbd6', 'sheetTypeSlug': 'cours', 'resourceTypeSlug': 'fiche-de-cours'
+            }
+        ]
+    },
+    {'id': '5dc2eaed09e0a80100fdb82e', 'name': 'Les expressions de la sensibilité', 'sheets': [
+            {'updatedAt': '2023-03-28T08: 52: 35.013Z', 'createdAt': '2019-11-06T16: 00: 51.258Z', 'name': '«\xa0Un seul être vous manque et tout est dépeuplé\xa0» : le sentiment romantique', 'sheet_type_id': '579f6c4933e60a97a184b49a', 'slug': '-un-seul-etre-vous-manque-et-tout-est-depeuple-le-sentiment-romantique', 'resources_list': [
+                    {'resource_type': 'Fiche de cours', '_id': '5eea00d115d7610100838cca', 'resource_id': '6422aab5e906390100cd9811', 'is_published': True
+                    },
+                    {'resource_type': 'QCM', '_id': '5eea14100deaa401009f92a5', 'resource_id': '5f0f040c06dc000100ebf3cb', 'is_published': True
+                    },
+                    {'resource_type': 'Fiche de révision', '_id': '5f48fdf71f3276010020e308', 'resource_id': '6422a95be906390100cd980b', 'is_published': True
+                    }
+                ], 'is_published': True, '__v': 0, 'id': '5dc2ee3309e0a80100fdb838', 'sheetTypeSlug': 'cours', 'resourceTypeSlug': 'fiche-de-cours'
+            },
+            {'updatedAt': '2023-03-29T08: 21: 47.862Z', 'createdAt': '2019-11-06T15: 57: 56.040Z', 'name': 'Les sentiments et la raison', 'sheet_type_id': '579f6c4933e60a97a184b49a', 'slug': 'raison-et-sentiments', 'resources_list': [
+                    {'_id': '5dc2ee0909e0a80100fdb837', 'resource_type': 'Fiche de cours', 'resource_id': '6423f4b9e906390100cd9918', 'is_published': True
+                    },
+                    {'resource_id': '5ef9b4363947be0100be4f57', '_id': '5ef9b13406dc000100ebe5b3', 'resource_type': 'QCM', 'is_published': True
+                    },
+                    {'resource_id': '5f0c796006dc000100ebf3c1', '_id': '5f0c796006dc000100ebf3c3', 'resource_type': 'Fiche de révision', 'is_published': True
+                    }
+                ], 'is_published': True, '__v': 0, 'id': '5dc2ed8428e637010043bbd7', 'sheetTypeSlug': 'cours', 'resourceTypeSlug': 'fiche-de-cours'
+            },
+            {'updatedAt': '2021-07-26T13: 33: 25.752Z', 'createdAt': '2019-11-06T16: 01: 01.155Z', 'name': 'Musique et sensibilité artistique', 'sheet_type_id': '579f6c4933e60a97a184b49a', 'slug': 'la-musique-art-de-la-sensibilite-', 'resources_list': [
+                    {'resource_id': '5f0c79e806dc000100ebf3c5', '_id': '5eeb3682bbf40601006776fa', 'resource_type': 'Fiche de cours', 'is_published': True
+                    },
+                    {'resource_id': '5eec89f5878b9b0100eab6f6', '_id': '5eec89f5878b9b0100eab6f7', 'resource_type': 'QCM', 'is_published': True
+                    },
+                    {'resource_id': '5f0c7d978ae36b0100cb1b82', '_id': '5f0c7d978ae36b0100cb1b84', 'resource_type': 'Fiche de révision', 'is_published': True
+                    }
+                ], 'is_published': True, '__v': 0, 'id': '5dc2ee3d09e0a80100fdb839', 'sheetTypeSlug': 'cours', 'resourceTypeSlug': 'fiche-de-cours'
+            }
+        ]
+    },
+    {'id': '5dc2eaf428e637010043bbd2', 'name': 'Les métamorphoses du moi', 'sheets': [
+            {'updatedAt': '2024-03-28T10: 02: 57.894Z', 'createdAt': '2019-11-06T16: 01: 13.875Z', 'name': "Les transformations historiques de l'ego", 'sheet_type_id': '579f6c4933e60a97a184b49a', 'slug': 'les-transformations-historiques-de-l-ego', 'resources_list': [
+                    {'resource_type': 'Fiche de cours', '_id': '5dc2eed428e637010043bbda', 'resource_id': '5f467a781f3276010020d640', 'is_published': True
+                    },
+                    {'resource_type': 'Fiche de révision', '_id': '5f3cd43d2263e30100df989a', 'resource_id': '5f3cd43d2263e30100df9898', 'is_published': True
+                    },
+                    {'resource_type': 'QCM', '_id': '5f467aba1f3276010020d643', 'resource_id': '5f467aba1f3276010020d642', 'is_published': True
+                    }
+                ], 'is_published': True, '__v': 0, 'id': '5dc2ee4909e0a80100fdb83a', 'sheetTypeSlug': 'cours', 'resourceTypeSlug': 'fiche-de-cours'
+            },
+            {'updatedAt': '2021-03-16T10: 39: 36.753Z', 'createdAt': '2020-09-17T12: 57: 17.196Z', 'name': 'Identité et genre', 'sheet_type_id': '579f6c4933e60a97a184b49a', 'slug': 'identite-et-genre', 'resources_list': [
+                    {'resource_type': 'Fiche de cours', '_id': '5f635e77c605450100bb11d6', 'resource_id': '60508a804440ce0100dd6f42', 'is_published': True
+                    },
+                    {'resource_type': 'Fiche de révision', '_id': '5f6b5f3ec605450100bb1718', 'resource_id': '5f914d0a7596510100e532ee', 'is_published': True
+                    },
+                    {'resource_type': 'QCM', '_id': '5f85b936635bc301007f1312', 'resource_id': '60508ac84440ce0100dd6f45', 'is_published': True
+                    }
+                ], 'is_published': True, '__v': 0, 'id': '5f635d2dc605450100bb11d3', 'sheetTypeSlug': 'cours', 'resourceTypeSlug': 'fiche-de-cours'
+            },
+            {'updatedAt': '2020-10-19T15: 02: 35.630Z', 'createdAt': '2019-11-06T16: 04: 22.362Z', 'name': 'Mutilations de la guerre et détention', 'sheet_type_id': '579f6c4933e60a97a184b49a', 'slug': 'mutilations-de-la-guerre-et-detention', 'resources_list': [
+                    {'resource_type': 'Fiche de cours', '_id': '5f3116205e6c630100f7f4d7', 'resource_id': '5f8813b1635bc301007f145c', 'is_published': True
+                    },
+                    {'resource_type': 'Fiche de révision', '_id': '5f3cde152263e30100df98a1', 'resource_id': '5f3cde152263e30100df989f', 'is_published': True
+                    },
+                    {'resource_type': 'QCM', '_id': '5f880c40635bc301007f13f6', 'resource_id': '5f881418635bc301007f145f', 'is_published': True
+                    }
+                ], 'is_published': True, '__v': 0, 'id': '5dc2ef0628e637010043bbdc', 'sheetTypeSlug': 'cours', 'resourceTypeSlug': 'fiche-de-cours'
+            }
+        ]
+    },
+    {'id': '5dc2eafa09e0a80100fdb82f', 'name': 'Création, continuités et ruptures', 'sheets': [
+            {'updatedAt': '2024-04-12T08: 21: 59.187Z', 'createdAt': '2019-11-06T16: 04: 34.917Z', 'name': 'La science en question', 'sheet_type_id': '579f6c4933e60a97a184b49a', 'slug': 'la-science-en-question', 'resources_list': [
+                    {'resource_type': 'Fiche de cours', '_id': '5dc2ef9e09e0a80100fdb83d', 'resource_id': '6618ef127fc96510c386838b', 'is_published': True
+                    },
+                    {'resource_type': 'QCM', '_id': '5f4624081562320100b36ea9', 'resource_id': '5f4624081562320100b36ea8', 'is_published': True
+                    },
+                    {'resource_type': 'Fiche de révision', '_id': '5f48c8aa1f3276010020e2e7', 'resource_id': '5f48c8aa1f3276010020e2e5', 'is_published': True
+                    }
+                ], 'is_published': True, '__v': 0, 'id': '5dc2ef1228e637010043bbdd', 'sheetTypeSlug': 'cours', 'resourceTypeSlug': 'fiche-de-cours'
+            },
+            {'updatedAt': '2020-10-20T09: 42: 34.024Z', 'createdAt': '2019-11-06T16: 07: 09.416Z', 'name': 'Les arts contemporains : héritages et reniements', 'sheet_type_id': '579f6c4933e60a97a184b49a', 'slug': 'les-arts-contemporains-heritages-et-reniements', 'resources_list': [
+                    {'resource_type': 'Fiche de cours', '_id': '5f311fb75e6c630100f7f4e0', 'resource_id': '5f60c153c605450100bb0fa7', 'is_published': True
+                    },
+                    {'resource_type': 'Fiche de révision', '_id': '5f3ce8d12263e30100df9978', 'resource_id': '5f3ce8d12263e30100df9976', 'is_published': True
+                    },
+                    {'resource_type': 'QCM', '_id': '5f60b39dc605450100bb0b32', 'resource_id': '5f60b39dc605450100bb0b31', 'is_published': True
+                    }
+                ], 'is_published': True, '__v': 0, 'id': '5dc2efad09e0a80100fdb83e', 'sheetTypeSlug': 'cours', 'resourceTypeSlug': 'fiche-de-cours'
+            },
+            {'updatedAt': '2022-04-22T12: 39: 30.229Z', 'createdAt': '2019-11-06T16: 07: 19.161Z', 'name': 'La question de la pop culture', 'sheet_type_id': '579f6c4933e60a97a184b49a', 'slug': 'la-question-de-la-pop-culture', 'resources_list': [
+                    {'resource_type': 'Fiche de cours', '_id': '5f314da85e6c630100f7f500', 'resource_id': '6262a1ec4b54920100cedca7', 'is_published': True
+                    },
+                    {'resource_type': 'Fiche de révision', '_id': '5f3cf43a2263e30100df997e', 'resource_id': '5f3cf43a2263e30100df997c', 'is_published': True
+                    },
+                    {'resource_type': 'QCM', '_id': '5f476a5e1f3276010020d7f3', 'resource_id': '5f476a5e1f3276010020d7f2', 'is_published': True
+                    }
+                ], 'is_published': True, '__v': 0, 'id': '5dc2efb709e0a80100fdb83f', 'sheetTypeSlug': 'cours', 'resourceTypeSlug': 'fiche-de-cours'
+            }
+        ]
+    },
+    {'id': '5dc2eb0128e637010043bbd3', 'name': 'Histoire et violence', 'sheets': [
+            {'updatedAt': '2023-01-19T13: 21: 47.094Z', 'createdAt': '2019-11-06T16: 11: 12.127Z', 'name': "La dystopie : la fin de l'utopie", 'sheet_type_id': '579f6c4933e60a97a184b49a', 'slug': 'la-dystopie-la-fin-de-l-utopie', 'resources_list': [
+                    {'resource_type': 'Fiche de cours', '_id': '5dc2f10609e0a80100fdb845', 'resource_id': '63c942302d66370100cb08c4', 'is_published': True
+                    },
+                    {'resource_type': 'QCM', '_id': '5f3a49e42263e30100df93cb', 'resource_id': '63c943202d66370100cb08c7', 'is_published': True
+                    },
+                    {'resource_type': 'Fiche de révision', '_id': '5f3cff5e2263e30100df9984', 'resource_id': '5f3cff5e2263e30100df9982', 'is_published': True
+                    }
+                ], 'is_published': True, '__v': 0, 'id': '5dc2f0a028e637010043bbde', 'sheetTypeSlug': 'cours', 'resourceTypeSlug': 'fiche-de-cours'
+            },
+            {'updatedAt': '2023-01-17T08: 27: 58.634Z', 'createdAt': '2019-11-06T16: 13: 08.747Z', 'name': 'Violence et société', 'sheet_type_id': '579f6c4933e60a97a184b49a', 'slug': 'violence-et-societe', 'resources_list': [
+                    {'resource_type': 'Fiche de cours', '_id': '5f3681b32263e30100df939c', 'resource_id': '5f4e46be6b94d20100f7a5c3', 'is_published': True
+                    },
+                    {'resource_type': 'QCM', '_id': '5f3a7a042263e30100df95d1', 'resource_id': '5f3a7a042263e30100df95d0', 'is_published': True
+                    },
+                    {'resource_type': 'Fiche de révision', '_id': '5f8eb4c27596510100e530f8', 'resource_id': '63c65c092d66370100cb08ab', 'is_published': True
+                    }
+                ], 'is_published': True, '__v': 0, 'id': '5dc2f11409e0a80100fdb846', 'sheetTypeSlug': 'cours', 'resourceTypeSlug': 'fiche-de-cours'
+            },
+            {'updatedAt': '2020-10-20T14: 53: 47.722Z', 'createdAt': '2019-11-06T16: 13: 19.848Z', 'name': "L'histoire de la psychiatrie (Foucault)", 'sheet_type_id': '579f6c4933e60a97a184b49a', 'slug': 'l-histoire-de-la-psychiatrie-foucault-', 'resources_list': [
+                    {'resource_type': 'Fiche de cours', '_id': '5f368c3c2263e30100df93ab', 'resource_id': '5f4f67896b94d20100f7a88e', 'is_published': True
+                    },
+                    {'resource_type': 'QCM', '_id': '5f3a8dc02263e30100df9645', 'resource_id': '5f3a8dc02263e30100df9644', 'is_published': True
+                    },
+                    {'resource_type': 'Fiche de révision', '_id': '5f4501d81562320100b36cd5', 'resource_id': '5f4501d81562320100b36cd3', 'is_published': True
+                    }
+                ], 'is_published': True, '__v': 0, 'id': '5dc2f11f09e0a80100fdb847', 'sheetTypeSlug': 'cours', 'resourceTypeSlug': 'fiche-de-cours'
+            }
+        ]
+    },
+    {'id': '5dc2eb0909e0a80100fdb830', 'name': 'L’humain et ses limites', 'sheets': [
+            {'updatedAt': '2020-09-23T13: 31: 22.777Z', 'createdAt': '2019-11-06T16: 13: 32.393Z', 'name': 'Le fantasme de la toute-puissance humaine', 'sheet_type_id': '579f6c4933e60a97a184b49a', 'slug': 'le-fantasme-de-la-toute-puissance-humaine', 'resources_list': [
+                    {'resource_type': 'Fiche de cours', '_id': '5dc2f1a628e637010043bbe1', 'resource_id': '5f6b421fc605450100bb16f9', 'is_published': True
+                    },
+                    {'resource_type': 'QCM', '_id': '5f3b94542263e30100df96be', 'resource_id': '5f3b94542263e30100df96bd', 'is_published': True
+                    },
+                    {'resource_type': 'Fiche de révision', '_id': '5f6b4e22c605450100bb1703', 'resource_id': '5f6b4e22c605450100bb1701', 'is_published': True
+                    }
+                ], 'is_published': True, '__v': 0, 'id': '5dc2f12c09e0a80100fdb848', 'sheetTypeSlug': 'cours', 'resourceTypeSlug': 'fiche-de-cours'
+            },
+            {'updatedAt': '2023-03-29T08: 18: 08.629Z', 'createdAt': '2019-11-06T16: 15: 48.880Z', 'name': 'La conscience écologique', 'sheet_type_id': '579f6c4933e60a97a184b49a', 'slug': 'la-conscience-ecologique', 'resources_list': [
+                    {'resource_type': 'QCM', '_id': '5f3bc2c42263e30100df978f', 'resource_id': '5f3bc2c42263e30100df978e', 'is_published': True
+                    },
+                    {'resource_type': 'Fiche de cours', '_id': '5f47d8471f3276010020e1be', 'resource_id': '6423f3dce906390100cd9915', 'is_published': True
+                    },
+                    {'resource_type': 'Fiche de révision', '_id': '5f6b516bc605450100bb1709', 'resource_id': '5f6b516bc605450100bb1707', 'is_published': True
+                    }
+                ], 'is_published': True, '__v': 0, 'id': '5dc2f1b428e637010043bbe2', 'sheetTypeSlug': 'cours', 'resourceTypeSlug': 'qcm'
+            },
+            {'updatedAt': '2024-01-11T08: 32: 23.294Z', 'createdAt': '2019-11-06T16: 15: 57.589Z', 'name': 'La bioéthique', 'sheet_type_id': '579f6c4933e60a97a184b49a', 'slug': 'la-bioethique', 'resources_list': [
+                    {'resource_type': 'QCM', '_id': '5f3be3232263e30100df982a', 'resource_id': '5f5a2387c605450100bae621', 'is_published': True
+                    },
+                    {'resource_type': 'Fiche de cours', '_id': '5f5251c76b94d20100f7aa96', 'resource_id': '659fa75758403d0100f60c33', 'is_published': True
+                    },
+                    {'resource_type': 'Fiche de révision', '_id': '5f6b5c84c605450100bb170f', 'resource_id': '5f6b5c84c605450100bb170d', 'is_published': True
+                    }
+                ], 'is_published': True, '__v': 0, 'id': '5dc2f1bd28e637010043bbe3', 'sheetTypeSlug': 'cours', 'resourceTypeSlug': 'qcm'
+            }
+        ]
+    }
+]
